@@ -7,7 +7,7 @@
 
 中华人民共和国行业标准
  
-水运工程混凝土结构实体检测技术规范
+水运工程混凝土结构实体检测技术规程
 =========================================
 
 
@@ -16,7 +16,7 @@
 
   <h2 id="test111">水运工程混凝土结构实体检测技术规范</h2>
 
-  Technical Specification for Solid Inspection of Concrete Structure in Port and Waterway Engineering
+  Technical Specification for Solid Inspection of Concrete Structure in Port and Waterway Engineering<br/><br/>
   
   JTS 239-2015
 
