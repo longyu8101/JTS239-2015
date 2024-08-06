@@ -9,7 +9,7 @@
 
  <p style="text-align:justify"><a href="#id1.0.1"> 1.0.1</a> <span id="id1.0.1">为统一水运工程混凝土结构实体检测技术要求，做到技术先进、经济合理、安全适用，提高检测质量，制定本规程。</span></p>
 
- <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">本规程适用于水运工程混凝土结构的实体检测。</span></p>
+ <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">本本规程适用于水运工程混凝土结构的实体检测。</span></p>
 
  <p style="text-align:justify"><a href="#id1.0.3"> 1.0.3</a> <span id="id1.0.3">水运工程混凝土结构实体检测除应符合本规程的规定外，尚应符合国家现行有关标准的规定。</span></p>
 
