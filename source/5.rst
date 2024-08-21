@@ -366,8 +366,8 @@ $$f_{\\mathrm{cu,e} }=f_{\\mathrm{cu,m}} ^{\\mathrm{c}}-1.645S_{\\mathrm{f} _{\\
  <p style="text-align:justify "><a href="#id5.3.2"> 5.3.2</a> <span id="id5.3.2"> 超声一回弹综合法不宜用于检测因冻害、化学腐蚀及火灾等造成混凝土表面损伤和经超声波法检测判定混凝土均匀性不合格的混凝土。</span></p>
  <p style="text-align:justify "><a href="#id5.3.3"> 5.3.3</a> <span id="id5.3.3"> 测试步骤应符合下列规定。</span></p>
  <p style="text-align:justify "><a href="#id5.3.3.1"> 5.3.3.1</a> <span id="id5.3.3.1"> 测区应在检测均匀性合格的样本上选取。</span></p>
- <p style="text-align:justify "><a href="#id5.3.3.2"> 5.3.3.2</a> <span id="id5.3.3.2"> 测区表面应符合第 4. 1. 条的规定。</span></p>
- <p style="text-align:justify "><a href="#id5.3.3.3"> 5.3.3.3</a> <span id="id5.3.3.3"> 每个样本不应少于 个测区，测区宜布置在样本混凝土的浇筑侧面，测区宜选在样本的两个对称或相邻可测试表面上，均匀分布，相邻测区间距不宜大于2 m ，对测时测区面积宜为0.04 m<sup>2</sup> ，每个测区包括4个超声波测点和16个回弹值测点，见<a href="#fig5.3.3">图5.3.3</a>。</span></p>
+ <p style="text-align:justify "><a href="#id5.3.3.2"> 5.3.3.2</a> <span id="id5.3.3.2"> 测区表面应符合<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#id4.1.9">第4.1.9条</a>的规定。</span></p>
+ <p style="text-align:justify "><a href="#id5.3.3.3"> 5.3.3.3</a> <span id="id5.3.3.3"> 每个样本不应少于5个测区，测区宜布置在样本混凝土的浇筑侧面，测区宜选在样本的两个对称或相邻可测试表面上，均匀分布，相邻测区间距不宜大于2 m ，对测时测区面积宜为0.04 m<sup>2</sup> ，每个测区包括4个超声波测点和16个回弹值测点，见<a href="#fig5.3.3">图5.3.3</a>。</span></p>
 
    <div align="center"><img id="fig5.3.3" src="./_static/fig/5.3.3.png" alt="Picture" width="400px"></div>
   <p style="color: dimgray;text-align: center;">图 5.3.3 超声一回弹测点对测法布置示意图<br/>1-侧混凝土表面；2-测区；3-回弹测点；4-超声波测点</p>
@@ -377,10 +377,10 @@ $$f_{\\mathrm{cu,e} }=f_{\\mathrm{cu,m}} ^{\\mathrm{c}}-1.645S_{\\mathrm{f} _{\\
  <p style="text-align:justify "><a href="#id5.3.3.4"> 5.3.3.4</a> <span id="id5.3.3.4"> 对每一测区，应先进行回弹测试，后进行超声测试。</span></p>
  <p style="text-align:justify "><a href="#id5.3.3.5"> 5.3.3.5</a> <span id="id5.3.3.5"> 同一测区声速代表值和回弹代表值应满足下列要求：</span></p>
   <ol>
-  <li> 按第5.2节的要求进行回弹测试；</li>
-  <li> 按第4.2节的要求进行超声测试；</li>
+  <li> 按<a href="https://jts239-2015.readthedocs.io/en/latest/5.html#id3">第5.2节</a>的要求进行回弹测试；</li>
+  <li> 按<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#id3">第4.2节</a>的要求进行超声测试；</li>
   <li> 4个超声波测点的声速平均值为该测区声速代表值；</li>
-  <li> 回弹代表值按第5.2.10条规定的方法求得。</li>      
+  <li> 回弹代表值按<a href="#id5.2.10">第5.2.10条</a>规定的方法求得。</li>      
  </ol>
 
  <p style="text-align:justify "><a href="#id5.3.3.6"> 5.3.3.6</a> <span id="id5.3.3.6"> 计算样本混凝土强度时，非同一测区内的回弹值和声速值不得混用。</span></p>
@@ -416,7 +416,7 @@ $$f_{\\mathrm{cu} ,i}^{\\mathrm{c} }=0.008v_{\\mathrm{m} ,i}^{1.72}R_{\\mathrm{m
  <p></p>
 
 
- <p style="text-align:justify "><a href="#id5.3.5"> 5.3.5</a> <span id="id5.3.5"> 混凝土强度推定值的确定应符合第 5.2.12 条的规定。</span></p>
+ <p style="text-align:justify "><a href="#id5.3.5"> 5.3.5</a> <span id="id5.3.5"> 混凝土强度推定值的确定应符合<a href="#id5.2.12">第5.2.12条</a>的规定。</span></p>
 
 
 5.4 钻芯法检测
@@ -589,8 +589,8 @@ $$f_{\\mathrm{cor}}=\\dfrac{4aF_{\\mathrm{c} }}{\\pi d^2} \\tag{5.4.8}$$
   <ol>
   <li>芯样采用回弹法或超声一回弹综合法检测的样本测区中随机抽取，钻芯位置与回弹法或超声一回弹综合法检测的样本测区重合；</li>  
   <li>芯样试件数量不少于<a href="#B5.4.5">表5.4.5</a>规定数量的6倍；</li>
-  <li>按第5.4节的有关规定测得单组芯样试件的强度代表值；</li> 
-  <li>按附录G对单组芯样试件强度代表值进行异常数据的判别和处理；</li>
+  <li>按<a href="https://jts239-2015.readthedocs.io/en/latest/5.html#id5">第5.4节</a>的有关规定测得单组芯样试件的强度代表值；</li> 
+  <li>按<a href="https://jts239-2015.readthedocs.io/en/latest/FLG.html">附录G</a>对单组芯样试件强度代表值进行异常数据的判别和处理；</li>
   <li>单组芯样试件强度代表值的算术平均值作为钻芯法检测样本修正强度的平均值。</li>
  </ol>
 
@@ -641,13 +641,13 @@ $$f _{\\mathrm{cu,}i1 }^{\\mathrm{c} }=f_{\\mathrm{cu},i0}^{\\mathrm{c} }+\\Delt
 
 
 
- <p style="text-align:justify "><a href="#id5.5.1.6"> 5.5.1.6</a> <span id="id5.5.1.6">应采用修正后的强度代表值，按第5.2.12条计算混凝土强度推定值，再按第5.5.1.1条和第5.5.1.2条规定进行混凝土强度判定的复验。</span></p>
+ <p style="text-align:justify "><a href="#id5.5.1.6"> 5.5.1.6</a> <span id="id5.5.1.6">应采用修正后的强度代表值，按<a href="#id5.2.12">第5.2.12条</a>计算混凝土强度推定值，再按<a href="#id5.5.1.1">第5.5.1.1条</a>和<a href="#id5.5.1.2">第5.5.1.2条</a>规定进行混凝土强度判定的复验。</span></p>
  <p style="text-align:justify "><a href="#id5.5.1.7"> 5.5.1.7</a> <span id="id5.5.1.7"> 当复验结果仍判该检测批为不合格时，应按下列规定进行再检验：</span></p>
  <ol>
-  <li>由未被抽检样本组成新的检测批，随机抽取 30% 的样本进行检测，并按第5.5.1.1款和第5.5.1.2款进行混凝土强度判定；</li>
+  <li>由未被抽检样本组成新的检测批，随机抽取 30% 的样本进行检测，并按<a href="#id5.5.1.1">第5.5.1.1款</a>和<a href="#id5.5.1.2">第5.5.1.2款</a>进行混凝土强度判定；</li>
   <li>当新的检测批又被判为不合格时，则检测剩余的全部样本，并按单个样本逐个进行强度判定。</li>
  </ol>
- <p style="text-align:justify "><a href="#id5.5.1.8"> 5.5.1.8</a> <span id="id5.5.1.8"> 当单个样本被初步判定为不合格时，应按第5.4节的有关规定进行钻芯法复验检测。</span></p> 
+ <p style="text-align:justify "><a href="#id5.5.1.8"> 5.5.1.8</a> <span id="id5.5.1.8"> 当单个样本被初步判定为不合格时，应按<a href="https://jts239-2015.readthedocs.io/en/latest/5.html#id5">第5.4节</a>的有关规定进行钻芯法复验检测。</span></p> 
 
  <p style="text-align:justify "><a href="#id5.5.2"> 5.5.2</a> <span id="id5.5.2"> 钻芯法检测混凝土强度的判定应符合下列规定。</span></p>
  <p style="text-align:justify "><a href="#id5.5.2.1"> 5.5.2.1</a> <span id="id5.5.2.1"> 混凝土强度代表值个数不少于9个时，混凝土强度代表值的平均值和标准差应分别按<a href="#ideq5.5.2.1">式(5.5.2-1)</a><span id="ideq5.5.2.1">和<a href="#ideq5.5.2.2">式(5.5.2-2)</a><span id="ideq5.5.2.2">进行计算，能同时满足<a href="#ideq5.5.2.3">式(5.5.2-3)</a><span id="ideq5.5.2.3">、<a href="#ideq5.5.2.4">式(5.5.2-4)</a><span id="ideq5.5.2.4">要求时，可判为合格，反之，则判为不合格。</span></p>

@@ -29,7 +29,7 @@
  <p style="text-align:justify "><a href="#id4.1.11.2"> 4.1.11.2</a> <span id="id4.1.11.2"> 当采用平面换能器平测时，宜用钢卷尺测量发射和接收换能器内边缘之间的距离。</span></p>
  <p style="text-align:justify "><a href="#id4.1.11.3"> 4.1.11.3</a> <span id="id4.1.11.3"> 当采用径向换能器在钻孔或预埋管中检测时，宜用钢卷尺测量放置发射和接收换能器的钻孔孔壁或预埋管外壁之间的最短距离。</span></p>
  <p style="text-align:justify "><a href="#id4.1.11.4"> 4.1.11.4</a> <span id="id4.1.11.4"> 当采用平面上的平面换能器和与平面相垂直钻孔中的径向换能器结合检测时，宜用钢卷尺测量平面换能器与放置径向换能器的钻孔孔壁之间的最短距离，同时记录径向换能器刻度线的尺寸，计算平面换能器与径向换能器之间的最短距离。</span></p>
- <p style="text-align:justify "><a href="#id4.1.11.5"> 4.1.11.5</a> <span id="id4.1.11.5"> 测距应精确至l mm ，测量误差应不大于土1%。</span></p>   
+ <p style="text-align:justify "><a href="#id4.1.11.5"> 4.1.11.5</a> <span id="id4.1.11.5"> 测距应精确至1 mm ，测量误差应不大于土1%。</span></p>   
 
  <p style="text-align:justify "><a href="#id4.1.12"> 4.1.12</a> <span id="id4.1.12"> 超声波检测时，测距不宜超过5 m。</span></p>          
  
@@ -219,7 +219,7 @@ $$v_{0}=v_{\\mathrm{m} }-\\lambda _{3}S_{\\mathrm{v} }\\tag{4.2.5-5}$$
  <table border="0" style="font-family:times new roman" id="gongshi">
  <tr>
  <td width="50px" align='center' id="eqzs">式中</td>
- <td width="50px" align='left' id="eqzs"><i>λ</i><sub>2</sub>、<i>λ</i><sub>3</sub></td>
+ <td width="70px" align='left' id="eqzs"><i>λ</i><sub>2</sub>、<i>λ</i><sub>3</sub></td>
  <td width="40px" align='left' id="eqzs">——</td>
  <td id="eqzs">修正系数，按附录B选取，当测点布置为网格状时取<i>λ</i><sub>3</sub> ，当单排布置测点时取<i>λ</i><sub>3</sub>。</td>
  </tr>
@@ -227,7 +227,7 @@ $$v_{0}=v_{\\mathrm{m} }-\\lambda _{3}S_{\\mathrm{v} }\\tag{4.2.5-5}$$
   </table>
  <p></p> 
 
- <p style="text-align:justify "><a href="#id4.2.5.3"> 4.2.5.3</a> <span id="id4.2.5.3"> 单个样本所测各测点的声速值应按第4.2.5.2款的规定进行异常点判别。当出现异常测点时，应对异常测点区域进行空洞或不密实区的位置和范围、表面损伤层厚度或不同时间浇筑的混凝土结合面质量等检测。</span></p>
+ <p style="text-align:justify "><a href="#id4.2.5.3"> 4.2.5.3</a> <span id="id4.2.5.3"> 单个样本所测各测点的声速值应按<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#id4.2.5.2">第4.2.5.2款</a>的规定进行异常点判别。当出现异常测点时，应对异常测点区域进行空洞或不密实区的位置和范围、表面损伤层厚度或不同时间浇筑的混凝土结合面质量等检测。</span></p>
  
 
 4.3 空洞、不密实区检测
@@ -246,7 +246,7 @@ $$v_{0}=v_{\\mathrm{m} }-\\lambda _{3}S_{\\mathrm{v} }\\tag{4.2.5-5}$$
   <div align="center"><img id="fig4.3.3" src="./_static/fig/4.3.3.png" alt="Picture" width="400px"></div>
   <p style="color: dimgray;text-align: center;">图 4.3.3 对测法示意图<br/>1－发射换能器； 2－接收换能器； 3－空洞；4-混凝土；5-混凝土表面</p>
   <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.3'));</script>
- <p style="text-align:justify "><a href="#id4.3.4"> 4.3.4</a> <span id="id4.3.4"> 当构件只具有一对相互平行测试面时，在测试部位相互平行的测试面对应位置宜分别按等间距的网格布设测点，检测范围应大于有怀疑的区域，测点间距不宜大于lOO mm ，在对测的基础上进行交叉斜测，见<a href="#fig4.3.4">图4.3.4</a></span></p> 
+ <p style="text-align:justify "><a href="#id4.3.4"> 4.3.4</a> <span id="id4.3.4"> 当构件只具有一对相互平行测试面时，在测试部位相互平行的测试面对应位置宜分别按等间距的网格布设测点，检测范围应大于有怀疑的区域，测点间距不宜大于100 mm ，在对测的基础上进行交叉斜测，见<a href="#fig4.3.4">图4.3.4</a></span></p> 
 
   <div align="center"><img id="fig4.3.4" src="./_static/fig/4.3.4.png" alt="Picture" width="400px"></div>
   <p style="color: dimgray;text-align: center;">图 4.3.4 测试示意图<br/>1-发射换能器；2-接收换能器；3-空洞；4－混凝土；5－混凝土表面</p>
@@ -274,7 +274,7 @@ $$v_{0}=v_{\\mathrm{m} }-\\lambda _{3}S_{\\mathrm{v} }\\tag{4.2.5-5}$$
   <p style="color: dimgray;text-align: center;">图 4.3.5.2 测试示意图<br/>(a)平面图；(b)立面图<br/>1－径向换能器； 2－平面换能器； 3－测孔；4－声披传播路径5－混凝土；6－混凝土表面</p>
   <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.5.2'));</script>
 
- <p style="text-align:justify "><a href="#id4.3.6"> 4.3.6</a> <span id="id4.3.6"> 检测应按第 4.2.3 条的有关规定进行，并按第4.2.5.2款的规定进行异常点判别，结合异常点的分布及检测时的超声波波形状况确定混凝土内部存在不密实区或空洞区的位置及范围。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.6"> 4.3.6</a> <span id="id4.3.6"> 检测应按<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#id4.2.3">第4.2.3条</a>的有关规定进行，并按<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#id4.2.5.2">第4.2.5.2款</a>的规定进行异常点判别，结合异常点的分布及检测时的超声波波形状况确定混凝土内部存在不密实区或空洞区的位置及范围。</span></p> 
  <p style="text-align:justify "><a href="#id4.3.7"> 4.3.7</a> <span id="id4.3.7"> 当判定缺陷是空洞时，可按<a href="#ideq4.3.7">式(4.3.7)</a><span id="ideq4.3.7">估算混凝土空洞半径：</span></p> 
 
 
@@ -317,7 +317,7 @@ $$r=\\dfrac{l}{2}\\sqrt{\\left(\\dfrac{t_{\\mathrm{max} }}{t_{\\mathrm{m} }}^2\\
 
 .. raw:: html
 
- <p style="text-align:justify "><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 检测前调查资料除应符合第 3.2.2 条规定外，尚应收集混凝土裂缝开裂时间及开裂过程等有关资料。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 检测前调查资料除应符合<a href="https://jts239-2015.readthedocs.io/en/latest/3.html#i3.2.2">第3.2.2条</a>规定外，尚应收集混凝土裂缝开裂时间及开裂过程等有关资料。</span></p> 
  <p style="text-align:justify "><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 裂缝长度和宽度检测应符合下列规定。</span></p> 
  <p style="text-align:justify "><a href="#id4.4.2.1"> 4.4.2.1</a> <span id="id4.4.2.1"> 应将裂缝按位置编号，并将其位置、走向描绘于简图。</span></p> 
  <p style="text-align:justify "><a href="#id4.4.2.2"> 4.4.2.2</a> <span id="id4.4.2.2"> 宜用钢尺或卷尺测量裂缝的长度。</span></p> 

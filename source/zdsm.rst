@@ -9,7 +9,7 @@
 
  <p style="text-align:justify;text-indent:2em;"> 本规程是根据交通运输部“关于签订 2007 年度水运工程建设标准新列项目合同的通知（水运技术便字[2007]276 号）”的要求，基于目前水运工程混凝土结构实体检测需要，在《港口工程混凝土非破损检测技术规程》（ JTJ/T 272-99 ）基础上，借鉴国内外相关行业有关标准并吸纳先进的检测技术成果，经广泛征求有关单位和专家意见，编制而成。</p>
  <p style="text-align:justify;text-indent:2em;"> 本规程共8章、14个附录，并附条文说明，主要包括混凝土的缺陷、强度、耐久性、钢筋和面层厚度的检测技术等内容。</p>
- <p style="text-align:justify;text-indent:2em;"> 本规程第 3.2.9 条为强制性条文，必须严格执行。</p>
+ <p style="text-align:justify;text-indent:2em;"> 本规程<a href="https://jts239-2015.readthedocs.io/en/latest/3.html#id3.2.9">第3.2.9条</a>为强制性条文，必须严格执行。</p>
  <p style="text-align:justify;text-indent:2em;"> 本规程主编单位为中交天津港湾工程研究院有限公司，参编单位为中交第一航务工程局有限公司、中交武汉港湾工程设计研究院有限公司、中交上海港湾工程设计研究院有限公司、中交四航工程研究院有限公司、天津港建设工程质量安全监督站、南京水利科学研究院和天津大学。本规程编写人员分工如下：</p>
  <p style="text-align:justify;text-indent:2em;"> 1&emsp;总则：李俊毅&emsp;刘亚平</p>
  <p style="text-align:justify;text-indent:2em;"> 2&emsp;术语：李晓明</p>

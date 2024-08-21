@@ -13,7 +13,7 @@
 
  <p style="text-align:justify "><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 钢筋保护层厚度的检测可采用非破损或局部破损的方法。</span></p>
  <p style="text-align:justify "><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 钢筋保护层厚度检测宜采用电磁感应原理的测定仪或雷达探测原理的测定仪。</span></p>
- <p style="text-align:justify "><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 保护层测定仪应进行校准，其校准及维护方法应符合附录L的规定。测定仪校准时的检测误差应满足<a href="#B7.1.3">表7.1.3</a>的要求。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 保护层测定仪应进行校准，其校准及维护方法应符合<a href="https://jts239-2015.readthedocs.io/en/latest/FLL.html">附录L</a>的规定。测定仪校准时的检测误差应满足<a href="#B7.1.3">表7.1.3</a>的要求。</span></p>
 
 .. raw:: html
 
@@ -61,7 +61,7 @@
  
  <p style="text-align:justify "><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4"> 检测面宜为混凝土表面，并应清洁、平整。</span></p>
  <p style="text-align:justify "><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5"> 电磁感应原理的钢筋保护层测定仪检测方法应符合下列规定。</span></p>
- <p style="text-align:justify "><a href="#id7.1.5.1"> 7.1.5.1</a> <span id="id7.1.5.1"> 检测前调查资料除应符合第3.2.2条的规定外，尚应调查如下内容：</span></p>
+ <p style="text-align:justify "><a href="#id7.1.5.1"> 7.1.5.1</a> <span id="id7.1.5.1"> 检测前调查资料除应符合<a href="https://jts239-2015.readthedocs.io/en/latest/3.html#id3.2.2">第3.2.2条</a>的规定外，尚应调查如下内容：</span></p>
  <ol>
  <li>混凝土是否采用带有铁磁性的原材料配制；</li>
  <li>被检测混凝土结构的钢筋品种、牌号、规格、设计钢筋保护层厚度、结构中是否有预留管道、金属预埋件等。</li> 
@@ -73,7 +73,7 @@
  <li>桩、梁类构件对所抽取构件所有受力主筋进行检测；</li>
  <li>相同浇筑面上测区间距一般不小于2 m;</li> 
  <li>选取测点时，避开多层、网格状钢筋交叉点及钢筋接头位置，避开混凝土中预埋设铁件、金属管等铁磁性物质，避开强交变电磁场以及周边较大金属结构；</li>
- <li>每根钢筋选取2~3个测点，见图7.1.5。</li>   
+ <li>每根钢筋选取2~3个测点，见<a href="#fig7.1.5">图7.1.5</a>。</li>   
  </ol>
 
  <div align="center"><img id="fig7.1.5" src="./_static/fig/7.1.5.png" alt="Picture" width="400px"></div>
@@ -101,7 +101,7 @@
  <p style="text-align:justify "><a href="#id7.1.7"> 7.1.7</a> <span id="id7.1.7"> 采用电磁感应原理的保护层测定仪时，检测结果的修正应符合下列规定。</span></p>
  <p style="text-align:justify "><a href="#id7.1.7.1"> 7.1.7.1</a> <span id="id7.1.7.1"> 修正时，应选取所测钢筋总数至少30%的钢筋且不少于6处修正保护层厚度，并以修正后的保护层厚度值进行合格判定。</span></p>
  <p style="text-align:justify "><a href="#id7.1.7.2"> 7.1.7.2</a> <span id="id7.1.7.2"> 钻孔或剔凿时不得损坏钢筋，应采用游标卡尺或钢尺进行实际保护层厚度的测量，并精确至0.1 mm。</span></p>
- <p style="text-align:justify "><a href="#id7.1.7.3"> 7.1.7.3</a> <span id="id7.1.7.3"> 总体修正量 atot 和修正的钢筋保护层厚度可分别按<a href="#ideq7.1.7.1">式(7.1.7-1)</a><span id="ideq7.1.7.1">和<a href="#ideq7.1.7.2">式(7.1.7-2)</a><span id="ideq7.1.7.2">计算。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.7.3"> 7.1.7.3</a> <span id="id7.1.7.3"> 总体修正量<i>Δ</i><sub>tot</sub>和修正的钢筋保护层厚度可分别按<a href="#ideq7.1.7.1">式(7.1.7-1)</a><span id="ideq7.1.7.1">和<a href="#ideq7.1.7.2">式(7.1.7-2)</a><span id="ideq7.1.7.2">计算。</span></p>
 
 $$\\Delta _{\\mathrm{tot} }=c_{\\mathrm{cor,m} }-c_{\\mathrm{m,0} }\\tag{7.1.7-1}$$
 
@@ -187,7 +187,7 @@ $$c_{\\mathrm{m},i }=c_{\\mathrm{m},i0 }+\\Delta _{\\mathrm{tot} }\\tag{7.1.7-2}
          <td align="center" >-5~+15</td>
 		    </tr>
 		</table>
-<p></p>
+ <p></p>
 
  <p style="text-align:justify "><a href="#id7.1.8.2"> 7.1.8.2</a> <span id="id7.1.8.2"> 保护层厚度合格点率应按<a href="#ideq7.1.8">式(7.1.8)</a><span id="ideq7.1.8">计算。</span></p>
 
