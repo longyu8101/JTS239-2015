@@ -1,0 +1,941 @@
+4 混凝土缺陷的检测
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">4 混凝土缺陷的检测</h2>
+
+
+4.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.1.1"> 4.1.1</a> <span id="id4.1.1"> 混凝土缺陷的检测宜包括均匀性、空洞或不密实区的位置和范围、裂缝、表面损伤层厚度、不同时间浇筑的混凝土结合面质量等内容检测。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.2"> 4.1.2</a> <span id="id4.1.2"> 检测宜采用超声波法，必要时应钻取芯样或剔凿进行验证。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.3"> 4.1.3</a> <span id="id4.1.3"> 判定缺陷应根据超声波在混凝土中的传播速度、首波幅度和接收信号波形等参数通过分析综合推断。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.4"> 4.1.4</a> <span id="id4.1.4"> 每次检测前，超声波检测仪应按附录 的规定进行率定并测定声时值初读数。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.5"> 4.1.5</a> <span id="id4.1.5"> 超声波检测仪宜在温度为(0~40)℃、电源电压在(220±22)V的环境条件下使用。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.6"> 4.1.6</a> <span id="id4.1.6"> 超声波检测仪应根据检测项目配备平面换能器或径向换能器。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.7"> 4.1.7</a> <span id="id4.1.7"> 换能器应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.7.1"> 4.1.7.1</a> <span id="id4.1.7.1"> 平面换能器的频率宜采用（20-250）kHz 。径向换能器的频率宜采用（20-60）kHz，直径不宜大于32 mm。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.7.2"> 4.1.7.2</a> <span id="id4.1.7.2"> 换能器的实测主频与标称频率相差不应大于±10%。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.7.3"> 4.1.7.3</a> <span id="id4.1.7.3"> 用于水中的换能器，其水密性应满足在1 MPa水压下不渗漏。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.8"> 4.1.8</a> <span id="id4.1.8"> 平面换能器应通过桐合剂与混凝土测试表面保持紧密结合，藕合层不得夹杂泥砂或空气。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.9"> 4.1.9</a> <span id="id4.1.9"> 采用平面换能器检测时，混凝土结构被测表面应清洁、平整、无缝和无饰面层。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.10"> 4.1.10</a> <span id="id4.1.10"> 测点布置应避开与超声波传播方向一致的主筋。若无法避免，应使两个换能器之间声波传播路径与该钢筋的最短距离不小于超声测距的 1/6。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11"> 4.1.11</a> <span id="id4.1.11"> 超声波检测时，测距测量应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11.1"> 4.1.11.1</a> <span id="id4.1.11.1"> 当采用平面换能器对测时，宜用钢卷尺测量发射和接收换能器辐射面之间的距离。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11.2"> 4.1.11.2</a> <span id="id4.1.11.2"> 当采用平面换能器平测时，宜用钢卷尺测量发射和接收换能器内边缘之间的距离。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11.3"> 4.1.11.3</a> <span id="id4.1.11.3"> 当采用径向换能器在钻孔或预埋管中检测时，宜用钢卷尺测量放置发射和接收换能器的钻孔孔壁或预埋管外壁之间的最短距离。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11.4"> 4.1.11.4</a> <span id="id4.1.11.4"> 当采用平面上的平面换能器和与平面相垂直钻孔中的径向换能器结合检测时，宜用钢卷尺测量平面换能器与放置径向换能器的钻孔孔壁之间的最短距离，同时记录径向换能器刻度线的尺寸，计算平面换能器与径向换能器之间的最短距离。</span></p>
+ <p style="text-align:justify "><a href="#id4.1.11.5"> 4.1.11.5</a> <span id="id4.1.11.5"> 测距应精确至l mm ，测量误差应不大于土1%。</span></p>   
+
+ <p style="text-align:justify "><a href="#id4.1.12"> 4.1.12</a> <span id="id4.1.12"> 超声波检测时，测距不宜超过5 m。</span></p>          
+ 
+
+4.2 均匀性检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 混凝土结构或构件宜采用对测法或斜测法进行测试，见<a href="#fig4.2.1">图4.2.1</a></span></p> 
+
+   <div align="center"><img id="fig4.2.1" src="./_static/fig/4.2.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.2.1 测区测点布置示意图<br/> （a）对测法：（b）斜测法<br/>1－混凝土表面； 2－发射换能器； 3－接收换能器； 4－测距线； 5－混凝土</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.2.1'));</script>
+
+ <p style="text-align:justify "><a href="#id4.2.2"> 4.2.2</a> <span id="id4.2.2"> 检测时，应在每个样本上布置不少于3个测区，每个测区不少于10对测点；相邻测点间距不宜大于500 mm ，测区间距不宜大于2 m。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.3"> 4.2.3</a> <span id="id4.2.3"> 检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.3.1"> 4.2.3.1</a> <span id="id4.2.3.1"> 检测应按下列步骤进行：</span></p> 
+ <ol>
+  <li> 测量测距；</li>
+  <li> 换能器经搞合剂与测点紧密接触；</li>
+  <li> 每对测点测得一次声时值，并记录。</li> 
+ </ol>
+ <p style="text-align:justify "><a href="#id4.2.3.2"> 4.2.3.2</a> <span id="id4.2.3.2"> 在每一测区的测试过程中，超声波检测仪的参数不得随意调整。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.3.3"> 4.2.3.3</a> <span id="id4.2.3.3"> 在测试过程中，当出现下列情况之一时，应再重复测量 次：</span></p> 
+  <ol>
+ <li>相邻两对测点声时值的相对误差大于 15%;</li>
+ <li>首波振幅值小于 30 dB;</li>
+ <li>接收信号的波形不规则。</li>  
+ </ol>
+ <p style="text-align:justify "><a href="#id4.2.3.4"> 4.2.3.4</a> <span id="id4.2.3.4"> 当重复测量声时值与第一次测量值的相对误差不大于15%，将三次测量平均值用于计算分析；若重复测量声时值与第一次测量值的相对误差大于15%，将重复两次测量平均值用于计算分析。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.3.5"> 4.2.3.5</a> <span id="id4.2.3.5"> 混凝土声速值可按<a href="#ideq4.2.3">式(4.2.3)</a><span id="ideq4.2.3">计算：</span></p>    
+
+$$v_\\mathrm{d}=\\dfrac{l}{t-t_{0}}\\tag{4.2.3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub></sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">对测混凝土声速（km/s），精确至0.01 km/s；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>l</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测距（mm），精确至l mm;；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 声时值（µs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>0</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">声时值初读数(μs),精确至0.1 μs。</td>
+ </tr>
+  </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id4.2.4"> 4.2.4</a> <span id="id4.2.4">  单个样本混凝土声速的平均值、标准差和变异系数应按下列公式计算：</span></p> 
+
+$$v_{\\mathrm{m} }=\\dfrac{1}{n}\\sum_{i=1}^{n} v_{i}\\tag{4.2.4-1}$$
+
+$$S_{\\mathrm{v} }=\\sqrt{\\dfrac{1}{n-1}\\sum_{i=1}^{n}(v_{i}-v_{\\mathrm{m} })^2} \\tag{4.2.4-2}$$
+
+$$\\delta _{\\mathrm{v} } =\\dfrac{S_{\\mathrm{v} }}{v_{\\mathrm{m} }}\\times 100\\%\\tag{4.2.4-3}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">单个样本的声速平均值（ km/s ），精确至0.01 km/s</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>n</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">单个样本的测点数量（对）；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>v</i><sub><i>i</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 单个样本的第<i>i</i>对测点的声速（<i>i</i>= 1、2、3...n）（km/s），精确至0.01 km/s；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>S</i><sub>v</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">单个样本的声速标准偏差（km/s），精确至0.01 km/s；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>δ</i><sub>v</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">单个样本的声速变异系数（%），精确至 0.1%。</td>
+ </tr> 
+  </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id4.2.5"> 4.2.5</a> <span id="id4.2.5"> 混凝土均匀性判定应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.2.5.1"> 4.2.5.1</a> <span id="id4.2.5.1"> 当单个样本的混凝土声速平均值和变异系数值同时满足<a href="#ideq4.5.4-2">式(4.2.5-1)</a><span id="ideq4.2.5-1">和<a href="#ideq4.2.5-2">式(4.2.5-2)</a><span id="ideq4.2.5-2">的要求时，可评定该样本的混凝土均匀性合格，反之则评定为不合格。</span></p>
+ 
+$$v_{\\mathrm{m} }\\geqslant3.5 \\ \\mathrm{km/s}\\tag{4.2.5-1}$$
+
+$$\\delta _{\\mathrm{v} } \\leqslant 5.0\\%\\tag{4.2.5-2}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">单个样本的声速平均值（ km/s ），精确至0.01 km/s</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>δ</i><sub>v</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">单个样本的声速变异系数（%），精确至 0.1%。</td>
+ </tr> 
+  </table>
+ <p></p> 
+ 
+ 
+ <p style="text-align:justify "><a href="#id4.2.5.2"> 4.2.5.2</a> <span id="id4.2.5.2"> 检测数据的异常判别可按下列步骤进行：</span></p>
+ <ol>
+ <li>将各测点的声学参数值由大至小按顺序分别排列，即 <math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>v</mi><mrow><mn>1</mn></mrow></msub><mo>⩾</mo><msub><mi>v</mi><mrow><mn>2</mn></mrow></msub><mo>⩾</mo><mo>⋯</mo><mo>⩾</mo><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi></mrow></mrow></msub><mo>⩾</mo><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi><mo>+</mo><mn>1</mn></mrow></mrow></msub><mo>⋯</mo><mo>⋯</mo></math>，初步认为排在后面明显小的数据可疑，假定这些可疑数据中最大值为飞，连同其前面的数据按<a href="#ideq4.2.4-1">式(4.2.4-1)</a><span id="ideq4.2.4-1">和<a href="#ideq4.2.4-2">式(4.2.4-2)</a><span id="ideq4.2.4-2">计算出的平均值和标准差，并按<a href="#ideq4.2.5-3">式(4.2.5-3)</a><span id="ideq4.2.5-3">计算测点声速异常判断值：</li>
+ </ol>
+
+$$v_{0}=v_{\\mathrm{m} }-\\lambda _{1}S_{\\mathrm{v} }\\tag{4.2.5-3}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">测点声速异常判断值（ km/s ），精确至0.01 km/s；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>v</i><sub>m</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测点声速平均值（ km/时，精确至0.01 km/s</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>λ</i><sub>1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">修正系数，按附录B选取；</td>
+ </tr>   
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>S</i><sub>v</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">标准差（km/s），精确至0.01 km/s。</td>
+ </tr> 
+  </table>
+ <p></p> 
+
+
+
+ <ol start="2">
+ <li>当<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi></mrow></mrow></msub><mo>⩽</mo><msub><mi>v</mi><mrow><mn>0</mn></mrow></msub></math>时，则<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi></mrow></mrow></msub></math>及排列于其后的各数据均为异常值，并且去掉<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi></mrow></mrow></msub></math>，再用<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">1</mi></mrow></mrow></msub></math>~<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n-1</mi></mrow></mrow></msub></math>进行计算和判别，直至判别不出异常值为止；当飞<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n</mi></mrow></mrow></msub><mo>&gt;</mo><msub><mi>v</mi><mrow><mn>0</mn></mrow></msub></math>时，应再将<math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mi>v</mi><mrow><mrow><mi mathvariant="normal">n+1</mi></mrow></mrow></msub></math>放进去重新进行计算和判别；</li>
+ <li>根据异常测点的分布情况，按<a href="#ideq4.2.5.4-4">式(4.2.5.4-4)</a><span id="ideq4.2.5.4-4">和<a href="#ideq4.2.5.4-5">式(4.2.5.4-5)</a><span id="ideq4.2.5.4-5">进一步判别其相邻测点是否异常：</li>
+ </ol>
+
+
+$$v_{0}=v_{\\mathrm{m} }-\\lambda _{2}S_{\\mathrm{v} }\\tag{4.2.5-4}$$ 
+
+$$v_{0}=v_{\\mathrm{m} }-\\lambda _{3}S_{\\mathrm{v} }\\tag{4.2.5-5}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="50px" align='left' id="eqzs"><i>λ</i><sub>2</sub>、<i>λ</i><sub>3</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">修正系数，按附录B选取，当测点布置为网格状时取<i>λ</i><sub>3</sub> ，当单排布置测点时取<i>λ</i><sub>3</sub>。</td>
+ </tr>
+
+  </table>
+ <p></p> 
+
+ <p style="text-align:justify "><a href="#id4.2.5.3"> 4.2.5.3</a> <span id="id4.2.5.3"> 单个样本所测各测点的声速值应按第4.2.5.2款的规定进行异常点判别。当出现异常测点时，应对异常测点区域进行空洞或不密实区的位置和范围、表面损伤层厚度或不同时间浇筑的混凝土结合面质量等检测。</span></p>
+ 
+
+4.3 空洞、不密实区检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 当出现下列情况之一时，应进行混凝土空洞、不密实区检测：</span></p> 
+ <ol>
+ <li>在混凝土均匀性检测中，被判定为异常的测点或区域；</li>
+ <li>表观质量较差的区域；</li>
+ <li>对施工质量有怀疑的结构或构件。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id4.3.2"> 4.3.2</a> <span id="id4.3.2"> 当混凝土结构或构件具有平行测试面时，可采用对测法、斜测法或两者相结合的方法进行检测。当测距较大时，可采用钻孔法进行检测。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.3"> 4.3.3</a> <span id="id4.3.3"> 当混凝土结构或构件具有两对相互平行的测试面时，宜采用对测法。检测范围应大于有怀疑的区域，在测试部位相互平行的测试面对应位置宜分别按等间距的网格布设测点，对应测点连线垂直于测试面，测点间距不宜大于100 mm ，见<a href="#fig4.3.3">图4.3.3</a></span></p> 
+  <div align="center"><img id="fig4.3.3" src="./_static/fig/4.3.3.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.3.3 对测法示意图<br/>1－发射换能器； 2－接收换能器； 3－空洞；4-混凝土；5-混凝土表面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.3'));</script>
+ <p style="text-align:justify "><a href="#id4.3.4"> 4.3.4</a> <span id="id4.3.4"> 当构件只具有一对相互平行测试面时，在测试部位相互平行的测试面对应位置宜分别按等间距的网格布设测点，检测范围应大于有怀疑的区域，测点间距不宜大于lOO mm ，在对测的基础上进行交叉斜测，见<a href="#fig4.3.4">图4.3.4</a></span></p> 
+
+  <div align="center"><img id="fig4.3.4" src="./_static/fig/4.3.4.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.3.4 测试示意图<br/>1-发射换能器；2-接收换能器；3-空洞；4－混凝土；5－混凝土表面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.4'));</script>
+
+ <p style="text-align:justify "><a href="#id4.3.5"> 4.3.5</a> <span id="id4.3.5"> 当测距较大时，可采用钻孔法检测。应在异常点附近区域钻取测孔，其深度可根据测试需要确定，且不应钻穿结构或构件。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.5.1"> 4.3.5.1</a> <span id="id4.3.5.1"> 钻取测孔应满足下列要求：</span></p> 
+ <ol>
+ <li>测孔与混凝土构件表面垂直；</li>
+ <li>测孔的孔径大于径向换能器直径约（5~10） mm；</li>
+ <li>清理干净测孔内粉末碎屑等；</li>
+ <li>测试完毕后，采用不低于原混凝土强度等级的细石混凝土或砂浆填补测孔，并将表面处理平整。</li>     
+ </ol>
+
+
+ <p style="text-align:justify "><a href="#id4.3.5.2"> 4.3.5.2</a> <span id="id4.3.5.2"> 检测前，应在测孔内注满清水。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.5.3"> 4.3.5.3</a> <span id="id4.3.5.3">  当钻取一个测孔时，可将一个径向换能器和一个平面换能器分别置于测孔中和垂直于测孔的测试面进行测试，见<a href="#fig4.3.5.1">图4.3.5.1</span></p>  
+  <div align="center"><img id="fig4.3.5.1" src="./_static/fig/4.3.5.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.3.5.1 测试示意图<br/>1－平面换能器； 2－声披传播路径； 3－径向换能器；4－测孔</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.5.1'));</script>
+ 
+ 
+ <p style="text-align:justify "><a href="#id4.3.5.4"> 4.3.5.4</a> <span id="id4.3.5.4"> 当钻取两个测孔时，可将两个径向换能器分别置于两测孔中进行测试，或将一个径向换能器和一个平面换能器分别置于测孔中和平行于测孔的侧面进行测试，见<a href="#fig4.3.5.2">图4.3.5.2。</span></p>   
+   <div align="center"><img id="fig4.3.5.2" src="./_static/fig/4.3.5.2.png" alt="Picture" width="700px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.3.5.2 测试示意图<br/>(a)平面图；(b)立面图<br/>1－径向换能器； 2－平面换能器； 3－测孔；4－声披传播路径5－混凝土；6－混凝土表面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.3.5.2'));</script>
+
+ <p style="text-align:justify "><a href="#id4.3.6"> 4.3.6</a> <span id="id4.3.6"> 检测应按第 4.2.3 条的有关规定进行，并按第4.2.5.2款的规定进行异常点判别，结合异常点的分布及检测时的超声波波形状况确定混凝土内部存在不密实区或空洞区的位置及范围。</span></p> 
+ <p style="text-align:justify "><a href="#id4.3.7"> 4.3.7</a> <span id="id4.3.7"> 当判定缺陷是空洞时，可按<a href="#ideq4.3.7">式(4.3.7)</a><span id="ideq4.3.7">估算混凝土空洞半径：</span></p> 
+
+
+$$r=\\dfrac{l}{2}\\sqrt{\\left(\\dfrac{t_{\\mathrm{max} }}{t_{\\mathrm{m} }}^2\\right)-1} \\tag{4.3.7}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>r</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">空洞半径（ mm ），精确至l mm；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>l</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">测距（ mm ），精确至l mm；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>t</i><sub>max</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">陷处的最大声时值(μs),精确至0.1 μs；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>t</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">无缺陷区的平均声时值(μs),精确至0.1 μs。</td>
+ </tr>
+ </table>   
+ <P> </P>
+ <p style="text-align:justify "><a href="#id4.3.8"> 4.3.8</a> <span id="id4.3.8"> 对判定为混凝土不密实的区域或空洞，必要时应钻取芯样验证。</span></p> 
+
+
+4.4 裂缝检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.4.1"> 4.4.1</a> <span id="id4.4.1"> 检测前调查资料除应符合第 3.2.2 条规定外，尚应收集混凝土裂缝开裂时间及开裂过程等有关资料。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 裂缝长度和宽度检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.2.1"> 4.4.2.1</a> <span id="id4.4.2.1"> 应将裂缝按位置编号，并将其位置、走向描绘于简图。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.2.2"> 4.4.2.2</a> <span id="id4.4.2.2"> 宜用钢尺或卷尺测量裂缝的长度。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.2.3"> 4.4.2.3</a> <span id="id4.4.2.3"> 在同一条裂缝上测量裂缝的最大宽度可采用以下3种测量方法：</span></p> 
+  <ol>
+  <li>塞尺测量：将塞尺插入裂缝缝隙内，读取塞尺上所标量值；</li>
+  <li>目测放大镜测量：将目测放大镜跨裂缝置放，读取裂缝宽度值；</li>
+  <li>裂缝宽度测量仪测量：将显微摄像测量探头跨裂缝置放，读取裂缝宽度值。</li>    
+ </ol>
+
+ <p style="text-align:justify "><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> 在进行裂缝深度检测时，每条裂缝在代表性部位布置不宜少于3个测区，每个测区不宜少于4对测点，两个换能器内边缘间距宜为 l00 mm、150 mm、200 mm、250 mm··· ，测区内的测点应避开钢筋，裂缝内应无积水和异物。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.4"> 4.4.4</a> <span id="id4.4.4"> 当裂缝仅有一个测试面，且预估裂缝深度不大于500 mm 时，可采用单面平测法进行裂缝深度检测，并应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.4.1"> 4.4.4.1</a> <span id="id4.4.4.1"> 在裂缝所在同一构件上无裂缝区域应按<a href="#id4.2.3">第4.2.3条</a>进行检测。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.4.2"> 4.4.4.2</a> <span id="id4.4.4.2"> 无裂缝区混凝土声速值应按下列步骤计算：</span></p> 
+
+ <ol>
+ <li>根据不同测距读取声时值<i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>、<i>t</i><sub>3</sub>、<i>t</i><sub>4</sub>...，绘制声时值一测距坐标图(<a href="#fig4.4.4.1">图4.4.4-1</a>)，用回归分析的方法求出声时值与测距之间的回归直线<a href="#ideq4.4.4-1">方程(4.4.4-1)</a><span id="ideq4.4.4-1">，得到a值和b值：</li>
+ </ol>
+
+$$l_{i}^{`}=a+b t_{i}\\tag{4.4.4-1}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>l</i><sub>i</sub><sup>`</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点测距（mm），精确至l mm；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>a</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值一测距图中纵坐标的截距或回归直线方程的常数项( mm)；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>b</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">回归系数；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>t</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值(μs),精确至0.1 μs。</td>
+ </tr>
+ </table>   
+ <P> </P>
+
+ <ol start="2">
+ <li>混凝土声速值按<a href="#ideq4.4.4-2">式(4.4.4-2)</a><span id="ideq4.4.4-2">计算：</li>
+ </ol>
+
+$$u_{\\mathrm{p}}^=b\\tag{4.4.4-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>p</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">平测时混凝土声速值（km/s），精确至0.01 km/s。</td>
+ </tr>
+ </table>   
+ <P> </P>
+
+  <div align="center"><img id="fig4.4.4.1" src="./_static/fig/4.4.4.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.4-1 声时值一测距坐标图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.4.1'));</script>
+ 
+ <p style="text-align:justify "><a href="#id4.4.4.3"> 4.4.4.3</a> <span id="id4.4.4.3"> 将超声波检测仪的接收和发射两个换能器分别置于裂缝对称的两侧，保持两换能器相对方向与不跨缝测量时一致两个换能器内边缘间距宜为100 mm、150 mm、200 mm、250 mm··· ，分别读取声时值<i>t</i><sub>1</sub><sup>`</sup>、<i>t</i><sub>2</sub><sup>`</sup>、<i>t</i><sub>3</sub><sup>`</sup>、<i>t</i><sub>4</sub><sup>`</sup>...，同时观察首波相位的变化，见<a href="#fig4.4.4.2">图4.4.4-2</a></span></p> 
+ 
+     <div align="center"><img id="fig4.4.4.2" src="./_static/fig/4.4.4.2.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.4-2 裂缝深度检测示意图<br/>1-发射换能器；2-接收换能器；3-声波传播路径</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.4.2'));</script>
+ 
+ 
+ <p style="text-align:justify "><a href="#id4.4.4.4"> 4.4.4.4</a> <span id="id4.4.4.4"> 裂缝深度可按下列公式计算：</span></p> 
+
+$$h_{i}=\\dfrac{l_{i}}{2}\\sqrt{\\left(\\dfrac{t_{i}^{'}v_{\\mathrm{p} }}{l_{i}}\\right)^2-1} \\tag{4.4.4-3}$$
+
+$$h_{\\mathrm{m} }=\\dfrac{1}{n}\\sum_{i=1}^{n}h_{i} \\tag{4.4.4-4}$$
+
+$$l_{i}=l_{i}^{'}+\\left | a \\right | \\tag{4.4.4-5}$$
+
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>h</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点计算的裂缝深度值（mm），精确至1 mm;；</td>
+ </tr>
+ <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>l</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点跨缝平测的声时值（µs），精确至0.1 µs；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>p</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">无裂缝区平测的混凝土声速值（km/s），精确至0.01 km/s；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>h</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">各对测点计算裂缝深度的平均值（mm），精确至 lmm；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>h</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">各对测点计算裂缝深度的平均值（mm），精确至 lmm；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>l</i><sub>i</sub><sup>'</sup></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">无裂缝区第<i>i</i>对测点测距（mm），精确至1 mm；</td>
+ </tr>
+  <tr>
+ <td width="50px" align='center' id="eqzs"> </td>
+ <td width="30px" align='left' id="eqzs"><i>a</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值一测距图中纵坐标的截距或回归直线方程的常数项（mm）。</td>
+ </tr>   
+ </table>   
+ <P> </P>
+
+
+ <p style="text-align:justify "><a href="#id4.4.4.5"> 4.4.4.5</a> <span id="id4.4.4.5"> 裂缝深度确定应符合下列规定：</span></p> 
+ <ol>
+ <li>跨缝测量中，当在某测距发现首波反相时，可用该测距及两个相邻测距的测量值按<a href="#ideq4.4.4-4">式(4.4.4-4)</a><span id="ideq4.4.4-4">计算<i>h</i><sub>ci</sub>,取此三点平均值<i>h</i><sub>cm</sub>作为该测区深度值；</li>
+ <li>跨缝测量中如未出现首波反相现象，则以不同测距按<a href="#ideq4.4.4-4">式(4.4.4-4)</a><span id="ideq4.4.4-4">和<a href="#ideq4.4.4-5">式(4.4.4-5)</a><span id="ideq4.4.4-5">计算<i>h</i><sub>ci</sub>和<i>h</i><sub>cm</sub>。将各测距与h比较，将<i>l</i><sub>i</sub>与<i>h</i><sub>cm</sub>比较,将小于<i>h</i><sub>cm</sub>或大于3<i>h</i><sub>cm</sub>的数据剔除，然后取余下测点裂缝深度平均值<i>h</i><sub>cm</sub>五作为该测区深度值；</li>
+ <li>取3个测区中所计算的最大裂缝深度值作为裂缝深度值。</li>
+ </ol>
+
+
+ <p style="text-align:justify "><a href="#id4.4.5"> 4.4.5</a> <span id="id4.4.5"> 当裂缝部位具有一对以上相互平行的测试面时，可采用斜测法检测，检测应符合下列规定：</span></p> 
+ <ol>
+ <li> 将发射和接收换能器分别置于两测试面对应测点1、2、3...置，见<a href="#fig4.4.5">图4.4.5</a>,读取相应声时值<i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>、<i>t</i><sub>3</sub>；</li>
+ </ol>
+
+  <div align="center"><img id="fig4.4.5" src="./_static/fig/4.4.5.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.5 斜测法示意图<br/>（a）平面图；（b）立面图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.5'));</script>
+ <ol start="2">
+ <li>根据声时、首波振幅和波形突变情况判定裂缝深度以及是否在所处断面内贯通。</li>
+ </ol>
+
+ <p style="text-align:justify "><a href="#id4.4.6"> 4.4.6</a> <span id="id4.4.6"> 当检测大体积混凝土结构中裂缝或构件厚度大于500 mm时，可采用钻孔法，测试应符合下列规定。</span></p>  
+ <p style="text-align:justify "><a href="#id4.4.6.1"> 4.4.6.1</a> <span id="id4.4.6.1"> 在裂缝部位附近钻取 个测孔，其间距不宜小于1 m,测孔的布设见<a href="#fig4.4.6.1">图4.4.6-1</a>,校准用测孔1、测孔2之间距离与测孔2、测孔3 之间距离宜相等。</span></p> 
+ <div align="center"><img id="fig4.4.6.1" src="./_static/fig/4.4.6.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.6-1 测孔位置示意图<br/>1-校准用测孔；2、3-测孔；4-裂缝</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.6.1'));</script>
+ <p style="text-align:justify "><a href="#id4.4.6.2"> 4.4.6.2</a> <span id="id4.4.6.2"> 测孔除满足<a href="#id4.3.5.1">第4.3.5.1款</a>的要求外，跨越裂缝两侧的测孔2和测孔3深度应大于裂缝深度，其轴线应保持平行；不跨越裂缝的校准用测孔1深度约500 mm。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.6.3"> 4.4.6.3</a> <span id="id4.4.6.3"> 测孔中应注满清水。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.6.4"> 4.4.6.4</a> <span id="id4.4.6.4"> 测试时，置于孔 和孔 、孔 和孔 中的发射和接收两个径向换能器，应以同一高程等距离由上至下或由下至上同时移动，逐点读取声时、波幅和换能器所处深度，并记录于测试表格中，见<a href="#fig4.4.6.2">图4.4.6-2</a>。</span></p> 
+ <div align="center"><img id="fig4.4.6.2" src="./_static/fig/4.4.6.2.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.6-2 测量示意图<br/>1－发射换能器；2－接收换能器；3－测孔；4－测距线</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.6.2'));</script>
+ <p style="text-align:justify "><a href="#id4.4.6.5"> 4.4.6.5</a> <span id="id4.4.6.5"> 裂缝深度值可采用绘制波幅一深度坐标图确定，见<a href="#fig4.4.6.3">图4.4.6-3</a>，图中波幅达到最大并基本稳定所对应的深度为裂缝深度值。</span></p>   
+  <div align="center"><img id="fig4.4.6.3" src="./_static/fig/4.4.6.3.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.4.6-3 波幅一深度示意图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.4.6.3'));</script>
+ <p style="text-align:justify "><a href="#id4.4.7"> 4.4.7</a> <span id="id4.4.7"> 混凝土裂缝处理应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.7.1"> 4.4.7.1</a> <span id="id4.4.7.1"> 应将测定的混凝土裂缝长度、宽度、深度标注于简图。</span></p>  
+ <p style="text-align:justify "><a href="#id4.4.7.2"> 4.4.7.2</a> <span id="id4.4.7.2"> 应选取有代表性的混凝生裂缝，粘结5 mm×30 mm石膏模子，观察裂缝开裂变化。</span></p> 
+ 
+
+4.5 表面损伤层厚度检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.5.1"> 4.5.1</a> <span id="id4.5.1"> 表面损伤层厚度应通过采用超声波法对因冻害、高温或化学腐蚀等引起的混凝土表面的损伤层厚度进行测定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.2"> 4.5.2</a> <span id="id4.5.2"> 测区测点布置应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.2.1"> 4.5.2.1</a> <span id="id4.5.2.1"> 根据混凝土结构或构件的损伤程度，结合表观质量状况，选取有代表性的部位布置测区进行检测，其数量不宜少于3个。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.2.2"> 4.5.2.2</a> <span id="id4.5.2.2"> 每个测区不宜少于10对测点。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> 换能器宜选用频率较低的平面换能器。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.4"> 4.5.4</a> <span id="id4.5.4"> 发射和接收两个换能器应藕合在同一测试面，间距宜为（30~100）mm ，检测应按下列步骤进行。</span></p> 
+ <p style="text-align:justify "><a href="#id4.5.4.1"> 4.5.4.1</a> <span id="id4.5.4.1"> 测试时，发射换能器应藕合好，保持不动，将接收换能器依次藕合在所选择30~100 mm 间的等间距测点1、2、3...位置上（<a href="#fig4.5.4.1">图4.5.4-1</a>），并读取和记录相应声时值<i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>、<i>t</i><sub>3</sub>...，测量和记录每次发射和接收换能器内边缘之间的距离<i>l</i><sub>1</sub>、<i>l</i><sub>2</sub>、<i>l</i><sub>3</sub>...。</span></p> 
+
+  <div align="center"><img id="fig4.5.4.1" src="./_static/fig/4.5.4.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.5.4-1 表面损伤层厚度测试示意图</br>1-发射换能器；2－接收换能器；3－声披传播路径；4－损伤层</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.5.4.1'));</script>
+
+ <p style="text-align:justify "><a href="#id4.5.4.2"> 4.5.4.2</a> <span id="id4.5.4.2"> 当构件的损伤层厚度不均匀时，应适当扩大测试区域，增加测试点数。</span></p> 
+
+ <p style="text-align:justify "><a href="#id4.5.4.3"> 4.5.4.3</a> <span id="id4.5.4.3"> 可采用声时值一测距坐标图法得到声速改变形成的转折点，该点前、后分别表示损伤和未损伤混凝土的距离 和声时<i>t</i>相关直线，见<a href="#fig4.5.4.2">图4.5.4-2</a>。</span></p> 
+
+  <div align="center"><img id="fig4.5.4.2" src="./_static/fig/4.5.4.2.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.5.4-2 声时值一测距坐标图</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.5.4.2'));</script>
+
+ <p style="text-align:justify "><a href="#id4.5.4.4"> 4.5.4.4</a> <span id="id4.5.4.4"> 可用回归分析方法分别求出损伤、未损伤混凝土距离<i>l</i>和声时<i>t</i>直线的回归直线方程，求得回归系数：</span></p>
+
+ <p style="text-align:justify;text-indent:2em;" > 损伤混凝土</p>
+
+$$l_{\\mathrm{f}}=a_{1}+b_{1}t_{\\mathrm{f}}\\tag{4.5.4-1}$$
+
+.. raw:: html
+
+ <p style="text-align:justify;text-indent:2em;" > 未损伤混凝土</p>
+
+$$l_{\\mathrm{a}}=a_{2}+b_{2}t_{\\mathrm{a}}\\tag{4.5.4-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="50px" align='right' id="eqzs"><i>l</i><sub>f</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">拐点前各测点测距（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>l</i><sub>a</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">拐点后各测点测距（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>t</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">拐点前各测点声时值（µs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>t</i><sub>a</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">拐点后测点声时值（µs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>a</i><sub>1</sub>、<i>b</i><sub>1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">回归系数，即<a href="#fig4.5.4.2">图4.5.4-2</a>的损伤混凝土回归直线的截距和斜率；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>a</i><sub>2</sub>、<i>b</i><sub>2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">回归系数，即<a href="#fig4.5.4.2">图4.5.4-2</a>的未损伤混凝土回归直线的截距和斜率。</td>
+ </tr>
+ </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id4.5.4.5"> 4.5.4.5</a> <span id="id4.5.4.5"> 按<a href="#ideq4.5.4-3">式(4.5.4-3)</a><span id="ideq4.5.4-3">和<a href="#ideq4.5.4-4">式(4.5.4-4)</a><span id="ideq4.5.4-4">计算混凝土损伤层厚度：</span></p> 
+
+
+$$l_0=\\dfrac{a_1 b_2-a_2b_1}{b_2-b_1}\\tag{4.5.4-3}$$
+
+$$h_{\\mathrm{f} }=\\dfrac{l_0}{2}\\sqrt{\\dfrac{b_2-b_1}{b_2+b_1}} \\tag{4.5.4-4}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="50px" align='right' id="eqzs"><i>l</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声速发生突变时测距（mm），精确至1 mm;；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>h</i><sub>f</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">损伤层厚度（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>a</i><sub>1</sub>、<i>b</i><sub>1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">回归系数，即<a href="#fig4.5.4.2">图4.5.4-2</a>的损伤混凝土回归直线的截距和斜率；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs" align='right'><i>a</i><sub>2</sub>、<i>b</i><sub>2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">回归系数，即<a href="#fig4.5.4.2">图4.5.4-2</a>的未损伤混凝土回归直线的截距和斜率。</td>
+ </tr>
+ </table>
+ <p></p>
+
+
+4.6 结合面质量检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.6.1"> 4.6.1</a> <span id="id4.6.1"> 结合面质量应通过采用超声波法对前后两次浇筑的混凝土之间接触面的结合面质量进行测定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.2"> 4.6.2</a> <span id="id4.6.2"> 检测前资料调查除应符合<a href="#id4.7.6">第4.7.6条</a>的规定外，尚应调查结合面的位置和走向。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.3"> 4.6.3</a> <span id="id4.6.3"> 当结合面有一对平行测试面时，可采用对测法或斜测法，见<a href="#fig4.6.3">图4.6.3</a>。测距线应平行，测点间的问距可根据结构或构件的尺寸而定，宜控制在（100~250）mm。</span></p> 
+  
+  <div align="center"><img id="fig4.6.3" src="./_static/fig/4.6.3.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.6.3 检测示意图<br/>（a）对测法；（b）斜测法<br/>1-发射换能器；2-接收换能器；3-结合面；4-测距线；5-混凝土；6-混凝土表面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.6.3'));</script>
+ 
+ <p style="text-align:justify "><a href="#id4.6.4"> 4.6.4</a> <span id="id4.6.4"> 当结合面仅具有单个测试面时，可采用钻孔法，测试应按下列要求进行。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.4.1"> 4.6.4.1</a> <span id="id4.6.4.1"> 在距结合面（50~100）mm 位置上钻取1个测孔，测孔应满足第4.3.5.1款的要求，其深度宜为构件厚度的2/3。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.4.2"> 4.6.4.2</a> <span id="id4.6.4.2"> 应在测孔内注满清水，并将径向换能器放置于测孔内。在跨越距结合面（50~100）mm 的平面上应安放一个平面换能器，见<a href="#fig4.6.4">图4.6.4</a>。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.4.3"> 4.6.4.3</a> <span id="id4.6.4.3"> 测试时，径向换能器应固定在钻孔底部，并以（100~250）mm 等问距移动平面换能器，换能器移动时应与结合面保持平行；将径向换能器升高一定距离，重复上述步骤移动平面换能器进行检测。</span></p>   
+  <div align="center"><img id="fig4.6.4" src="./_static/fig/4.6.4.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.6.4 钻孔法示意图<br/>（a）平面图；（b）立面图<br/>1－径向换能器；2－平面换能器；3－声波传播路径；<br/>4－测孔；5－四混凝土表面；6－结合面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.6.4'));</script>
+
+ <p style="text-align:justify "><a href="#id4.6.5"> 4.6.5</a> <span id="id4.6.5"> 检测应按<a href="#id4.2.3">第4.2.3条</a>有关规定进行。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.6"> 4.6.6</a> <span id="id4.6.6"> 所测结果应按<a href="#id4.2.5.2">第4.2.5.2款</a>的规定进行异常点判别，结合波幅等声学参数变化综合分析混凝土结合面质量。当通过结合面的某些测点的数据被判为异常，并查明无其他因素影响时，可判定混凝土结合面在该部位结合不良。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.7"> 4.6.7</a> <span id="id4.6.7"> 采用对测和斜测法检测时，跨越结合面超声波声速值比不跨越结合面超声波声速值显著降低的测点可判为异常测点。</span></p> 
+ <p style="text-align:justify "><a href="#id4.6.8"> 4.6.8</a> <span id="id4.6.8"> 对结合面区被判为异常的部位，必要时应钻取芯样进行验证。</span></p>
+
+
+4.7 灌注桩混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.7.1"> 4.7.1</a> <span id="id4.7.1"> 灌注桩混凝土缺陷应通过采用超声波法对预埋声测管的桩径或边长不小于0.6 m的灌注桩桩身完整性进行测定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.2"> 4.7.2</a> <span id="id4.7.2"> 声测管宜选用钢质管，其内径应大于径向换能器直径的1.5倍。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.3"> 4.7.3</a> <span id="id4.7.3"> 声测管的埋设应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.3.1"> 4.7.3.1</a> <span id="id4.7.3.1"> 被检桩设计桩径在（600~2000）mm 时，埋设声测管不应少于3根。</span></p>
+ <p style="text-align:justify "><a href="#id4.7.3.2"> 4.7.3.2</a> <span id="id4.7.3.2"> 被检桩设计桩径大于2000 mm时，埋设声测管不应少于4根。</span></p>
+ <p style="text-align:justify "><a href="#id4.7.3.3"> 4.7.3.3</a> <span id="id4.7.3.3"> 声测管应垂直于桩截面埋设，并呈对称形状布置，埋设位置及检测剖面见<a href="#fig4.7.3">图4.7.3</a>。桩径在（600~2000）mm时的检测剖面应为1-2、1-3和2-3；桩径大于2000 mm时的检测剖面应为1-1、1-3、1-4、2-3、2-4和3-4。</span></p>
+ <p style="text-align:justify "><a href="#id4.7.3.4"> 4.7.3.4</a> <span id="id4.7.3.4"> 声测管应焊接在钢筋笼内侧，同一根桩的各根声测管应平行。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.3.5"> 4.7.3.5</a> <span id="id4.7.3.5"> 声测管的下端应封闭，上端应加盖帽，管内无异物；声测管连接处应保持通直并光滑过渡，管口宜高出桩顶（100~500）mm，且各声测管外露管口高度相同。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.4"> 4.7.4</a> <span id="id4.7.4">  换能器除应符合第4.1.7条规定外，换能器的电缆线上应有清晰的长度标注，标注线位置的允许偏差不应大于10 mm。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.5"> 4.7.5</a> <span id="id4.7.5">  进行混凝土灌注桩缺陷检测时，受检桩混凝土强度至少应达到设计强度的70%，且不小于15 MPa。</span></p> 
+
+  <div align="center"><img id="fig4.7.3" src="./_static/fig/4.7.3.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.7.3 声测管布置示意图<br/>(a) 600 mm≤D≤2000 mm; ( b) D > 2000 mm</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.7.3'));</script>
+
+ <p style="text-align:justify "><a href="#id4.7.6"> 4.7.6</a> <span id="id4.7.6"> 检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.6.1"> 4.7.6.1</a> <span id="id4.7.6.1"> 检测应按下列步骤进行：</span></p> 
+ <ol>
+ <li> 打开声测管上端的盖帽，注满清水；</li>
+ <li> 用一个直径略大于换能器的钢锥作疏通吊锤，逐根检查声测管的畅通情况和实际深度，做好记录；</li>
+ <li> 用钢卷尺测量同根桩顶各声测管外壁间的最短距离；</li>
+ <li> 按附录 计算声测管及精合水层的声时值初读数；</li>
+ <li> 将接收和发射两个换能器分别安放在选定剖面的两根声测管底部或顶部，升降时控制测点间距不宜大于250 mm 。实时显示和记录接收信号的时程曲线，读取并记录各测点的声时值、首波振幅值和周期值。</li>    
+ </ol>
+ <p style="text-align:justify "><a href="#id4.7.6.2"> 4.7.6.2</a> <span id="id4.7.6.2"> 测试同一根桩时，超声波检测仪的功能按钮不得随意调节。</span></p> 
+ <p style="text-align:justify "><a href="#id4.7.6.3"> 4.7.6.3</a> <span id="id4.7.6.3"> 在桩身质量可疑的测点周围，应采用加密测点，或采用交叉斜测法（<a href="#fig4.7.6">图4.7.6c</a>）和扇形扫描法（<a href="#fig4.7.6">图4.7.6d</a>）进行复测，进一步确定桩身缺陷的位置和范围。</span></p> 
+ 
+ <div align="center"><img id="fig4.7.6" src="./_static/fig/4.7.6.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.7.6 超声波检测方法<br/>（a）对测法；（b）斜测法；（c）交叉斜测；（d）扇形扫描</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.7.6'));</script>
+
+ <p style="text-align:justify "><a href="#id4.7.7"> 4.7.7</a> <span id="id4.7.7"> 各测点的声时、声速、波幅及主频应根据现场检测数据，按<a href="#ideq4.7.7.1">式(4.7.7-1)</a><span id="ideq4.7.7.1">～<a href="#ideq4.7.7.4">式(4.7.7-4)</a><span id="ideq4.7.7.4">计算，并绘制声速一深度曲线和波幅一深度曲线，必要时可绘制辅助的主频一深度曲线。</span></p> 
+
+$$t_{\\mathrm{ci} }=t_{i}-t_{0}^{''}\\tag{4.7.7-1}$$
+
+$$v_{\\mathrm{i} }=l_{i}/t_{\\mathrm{ci} }\\tag{4.7.7-2}$$
+
+$$A_{\\mathrm{pi} }=20\\mathrm{lg} \\dfrac{A_{i}}{A_0}\\tag{4.7.7-3}$$
+
+$$f_{i}=1000/T_{\\mathrm{b}i }\\tag{4.7.7-4}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>t</i><sub>ci</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的混凝土声时值（µs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>i</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的仪器显示声时值（µs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>0</sub><sup>''</sup></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs"> 声时值初读数（µs），按附录A读取并计算，精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>v</i><sub>i</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的混凝土声速值（km/s），精确至0.01 km/s；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>l</i><sub>i</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点两根声测管内边缘之间的距离（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>A</i><sub>pi</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的波幅值（dB），精确至1 dB；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>A</i><sub>i</td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的首波峰值（dB），精确至1 dB；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>A</i><sub>0</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">零分贝信号幅值（dB），精确至1 dB;</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>f</i><sub>i</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的主频值（kHz），数字式超声波仪可直接读取，模拟式超声波仪需按<a href="#ideq4.7.7.4">式(4.7.7-4)</a><span id="ideq4.7.7.4">计算，精确至1 kHz;</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>T</i><sub>bi</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的信号周期（µs），精确至0.1 µs。</td>
+ </tr>
+ </table>
+ <p></p>
+
+
+ <p style="text-align:justify "><a href="#id4.7.8"> 4.7.8</a> <span id="id4.7.8"> 桩身混凝土缺陷判定方法应符合下列规定。</span></p>
+
+ <p style="text-align:justify "><a href="#id4.7.8.1"> 4.7.8.1</a> <span id="id4.7.8.1"> 混凝土均匀性和异常点的判别可按<a href="#id4.2.5">第4.2.5条</a>进行。当检测剖面<i>n</i>个测点的声速值普遍偏低且离散性很小，且<a href="#ideq4.7.8.1">式(4.7.8-1)</a><span id="ideq4.7.8.1">成立时，对应测点部位存在缺陷。</span></p>
+
+$$v_{i}<v_{\\mathrm{L}}\\tag{4.7.8-1}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>v</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的混凝土声速值(km/s),精确至0.01 km/s；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>v</i><sub>L</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">声速低限值（km/s），由预留同条件混凝土时间的抗压强度与声速对比试验结果，结合本地区实际经验确定，精确至0.01 km/s。</td>
+ </tr>
+ </table>
+ <p></p>
+
+
+ <p style="text-align:justify "><a href="#id4.7.8.2"> 4.7.8.2</a> <span id="id4.7.8.2"> 波幅异常时临界值判据应按<a href="#ideq4.7.8.2">式(4.7.8-2)</a><span id="ideq4.7.8.2">和<a href="#ideq4.7.8.3">式(4.7.8-3)</a><span id="ideq4.7.8.3">计算。当<a href="#ideq4.7.8.3">式(4.7.8-3)</a><span id="ideq4.7.8.3">成立时，波幅可判定为异常，对应测点部位存在缺陷。</span></p>
+
+$$A_{\\mathrm{m} }=\\dfrac{1}{n}\\sum_{i=1}^{n} A_{\\mathrm{pi} }\\tag{4.7.8-2}$$
+
+$$A_{\\mathrm{pi}}<A_{\\mathrm{m}}-6\\tag{4.7.8-3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>A</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">波幅平均值（dB），精确至1 dB；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>A</i><sub>pi</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的波幅值（dB），精确至1 dB；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>n</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测剖面测点数（对）。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id4.7.8.3"> 4.7.8.3</a> <span id="id4.7.8.3"> PSD 值应按<a href="#ideq4.7.8.4">式(4.7.8-4)</a><span id="ideq4.7.8.4">～<a href="#ideq4.7.8.6">式(4.7.8-6)</a><span id="ideq4.7.8.6">计算。根据 PSD 值在某深度处的突变，结合波幅变化情况，进行异常点判别。</span></p>
+
+$$PSD=K\\cdot\\Delta T\\tag{4.7.8-4}$$
+
+$$K=(t_i-t_{i-1})/(h_i-h_{i-1})\\tag{4.7.8-5}$$
+
+$$\\Delta t=t_i-t_{i-1}\\tag{4.7.8-6}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>t</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的仪器显示声时值(µs)，精确至0.1 µs；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>i-1</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第(<i>i</i>-1)对测点声时值(µs)，精确至0.1 µs；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>h</i><sub>i</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>对测点的深度（mm），精确至1 mm；</td>
+ </tr>
+  <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>h</i><sub>i-1</td></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第(<i>i</i>-1)对测点深度（mm），精确至1 mm。</td>
+ </tr>  
+ </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id4.7.8.4"> 4.7.8.4</a> <span id="id4.7.8.4"> 主频异常值可根据主频一深度曲线上主频值明显降低情况进行判别。</span></p>
+ <p style="text-align:justify "><a href="#id4.7.8.5"> 4.7.8.5</a> <span id="id4.7.8.5"> 桩身完整性应结合桩身混凝土各声学参数临界值、PSD判据、混凝土声速低限值及桩身质量可疑点加密测试后确定的缺陷位置、范围，按<a href="#B4.7.8">表4.7.8</a>进行判定。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B4.7.8">表4.7.8 桩身完整性判定</b></caption>	
+              
+		    <tr>
+		      <td  align="center" width="150px" id="dhbg">类别</td>
+		      <td  align="center" width="750px" id="dhbg">特征</td>
+		    </tr>
+		    <tr>
+		       <td align="center" valign="middle">I</td>
+		       <td align="left">各检测剖面的声学参数均无异常；<br/>无声速低于低限值异常</td>
+		    </tr>
+		    <tr>
+		       <td align="center" valign="middle">II</td>
+		       <td align="left">某一检测剖面个别测点的声学参数出现异常；<br/>无声速低于低限值异常</td>
+		    </tr>
+		    <tr>
+		       <td align="center" valign="middle">III</td>
+		       <td align="left">某一检测剖面连续多个测点的声学参数出现异常；<br/>两个或两个以上检测剖面在同一深度测点的声学参数出现异常；<br/>局部混凝土声速出现低于低限值异常</td>
+		    </tr>
+		    <tr>
+		       <td align="center" valign="middle">IV</td>
+		       <td align="left">某一检测剖面连续多个测点的声学参数出现明显异常；<br/>两个或两个以上检测剖面在同一深度测点的声学参数出现明显异常；<br/>桩身混凝土声速出现普遍低于低限值异常或无法检测首波或声波接收信号严重畸变</td>
+		    </tr>
+		</table>
+ <p></p>
+
+
+4.8 钢管混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.8.1"> 4.8.1</a> <span id="id4.8.1"> 钢管混凝土缺陷检测宜先用小锤敲击法进行普查，再用超声波法检测。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.2"> 4.8.2</a> <span id="id4.8.2"> 用小锤敲击钢管混凝土外侧的钢管壁，应根据响声判断钢管与混凝土结合紧密程度，初步判定钢管与混凝土结合的密实情况，并将判断结果描绘于简图中。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.3"> 4.8.3</a> <span id="id4.8.3"> 超声波法检测应符合下列规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.3.1"> 4.8.3.1</a> <span id="id4.8.3.1"> 超声法检测钢管中混凝土的强度，圆钢管的外径不宜小于300 mm ，方钢管的最小边长不宜小于275 mm。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.3.2"> 4.8.3.2</a> <span id="id4.8.3.2"> 钢管外表面应光洁、无严重锈蚀。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.3.3"> 4.8.3.3</a> <span id="id4.8.3.3"> 超声波测区布置应均匀，每个构件宜布置10个测区。每个测区不宜少于4对测点，见<a href="#fig4.8.3">图4.8.3</a>。</span></p> 
+
+  <div align="center"><img id="fig4.8.3" src="./_static/fig/4.8.3.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.8.3 超声波法测点布置示意图<br/>1-测距线；2-平面换能器；3-钢管管壁</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig4.8.3'));</script>
+
+ <p style="text-align:justify "><a href="#id4.8.3.4"> 4.8.3.4</a> <span id="id4.8.3.4"> 将发射和接收两个平面换能器分别搞合在钢管混凝土两侧对应同一轴线上，该轴线应通过钢管的圆心，并逐一采用对测法进行测试。</span></p> 
+ <p style="text-align:justify "><a href="#id4.8.3.5"> 4.8.3.5</a> <span id="id4.8.3.5"> 混凝土均匀性和异常点的判别应按照<a href="#id4.2.5">第4.2.5条</a>进行。</span></p>   
+ <p style="text-align:justify "><a href="#id4.8.4"> 4.8.4</a> <span id="id4.8.4"> 对于直径较大的钢管混凝土，也可采用预埋声测管的方法检测，检测应按<a href="#id4.7">第4.7节</a>混凝土灌注桩缺陷检测进行，钢管内混凝土完整性判定应按<a href="#B4.7.8">表4.7.8</a>进行。</span></p> 
+
+
+4.9 地连墙混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.9.1"> 4.9.1</a> <span id="id4.9.1"> 地连墙混凝土缺陷应通过采用超声波法对墙体混凝土整体质量进行测定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.2"> 4.9.2</a> <span id="id4.9.2"> 检测宜采用预埋声测管的方法。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.3"> 4.9.3</a> <span id="id4.9.3"> 单幅槽段应作为一个样本。在所抽取样本上应根据槽段的尺寸均匀埋置声测管。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.4"> 4.9.4</a> <span id="id4.9.4"> 声测管及其埋设应符合<a href="#id4.7.2">第4.7.2条</a>和<a href="#id4.7.3">第4.7.3条</a>的有关规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.5"> 4.9.5</a> <span id="id4.9.5"> 换能器应符合<a href="#id4.7.4">第4.7.4条</a>的规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.6"> 4.9.6</a> <span id="id4.9.6"> 检测龄期应符合<a href="#id4.7.5">第4.7.5条</a>的规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.7"> 4.9.7</a> <span id="id4.9.7"> 检测步骤应符合<a href="#id4.7.6">第4.7.6条</a>的规定。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.8"> 4.9.8</a> <span id="id4.9.8"> 墙体混凝土完整性判定应按<a href="#B4.7.8">表4.7.8</a>进行。</span></p>
+ <p style="text-align:justify "><a href="#id4.9.9"> 4.9.9</a> <span id="id4.9.9"> 墙体被判为异常的部位，必要时应钻取芯样进行验证。</span></p>
+
+:math:`\ ` 

@@ -1,0 +1,341 @@
+3 基本规定
+==============
+
+.. raw:: html
+
+  <h2 id="test111">3 基本规定</h2>
+
+
+3.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.1.1"> 3.1.1</a> <span id="id3.1.1"> 水运工程混凝土结构的实体检测可分为水运工程混凝土结构的实体验证性检测、工程质量实体检测和结构现状性能实体检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.2"> 3.1.2</a> <span id="id3.1.2"> 运水运工程混凝土结构的实体验证性检测应按现行行业标准《水运工程质量检验标准》（JTS 257 ）的有关规定执行。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.3"> 3.1.3</a> <span id="id3.1.3"> 当遇到下列情况之一时，应进行水运工程混凝土结构工程质量的实体检测：</span></p>
+ <ol>
+ <li>涉及结构安全的试块、试件以及有关材料检验数量不足；</li>
+ <li>施工质量的抽样检测结果达不到设计要求：</li>
+ <li>对施工质量有怀疑或争议；</li>
+ <li>发生工程事故，需要通过检测分析事故的原因及对结构可靠性的影响。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.1.4"> 3.1.4</a> <span id="id3.1.4"> 混凝土工程建造过程中的施工质量的监控，可进行水运工程混凝土结构工程质量的实体检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.5"> 3.1.5</a> <span id="id3.1.5"> 当遇到下列情况之一时，应进行水运工程混凝土结构现状性能的实体检测：</span></p>
+ <ol>
+ <li><a href="https://jts239-2015.readthedocs.io/en/latest/3.html#id3.1.3">第3.1.3</a>条所规定的情况：</li>
+ <li>开展混凝土结构评估；</li>
+ <li>对施工质量有怀疑或争议；</li>
+ <li>对混凝土结构的现有工程质量有怀疑或争议，或混凝土结构达到设计使用年限要继续使用的鉴定：</li>
+ <li>因环境侵蚀、爆炸、撞击、灾害以及人为因素等造成影响的鉴定；</li>
+ <li>相关标准规定的混凝土结构运行期间的评定。</li>
+ </ol>
+
+ <p style="text-align:justify "><a href="#id3.1.6"> 3.1.6</a> <span id="id3.1.6"> 水运工程混凝土结构实体检测的数据和结论应真实、可靠、有效。</span></p>     
+ <p style="text-align:justify "><a href="#id3.1.7"> 3.1.7</a> <span id="id3.1.7"> 水运工程混凝土结构的实体检测应根据检测目的和内容，结合现场实际情况，制定方法造宜、项目合理的检测方案。</span></p>
+ <p style="text-align:justify "><a href="#id3.1.8"> 3.1.8</a> <span id="id3.1.8"> 水运工程混凝土结构实体检测单位和人员应符合下列条件：</span></p>
+ <ol>
+ <li>检测单位具有独立法人资格，取得相应的资质等级证书；</li>
+ <li>检测单位具有健全的技术管理和质量保证体系；</li>
+ <li>检测所用的仪器和设备具有产品合格证、计量检定机构的有效检定（校准）证书或自校证书；</li>
+ <li>检测技术人员具有相应的专业技术能力水平；</li>
+ <li>检测工作由两名或两名以上检测人员承担，且至少一名具有工程师资格的检测人员担任主检。</li>
+ </ol>
+
+
+3.2 检测工作程序和内容
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.2.1"> 3.2.1</a> <span id="id3.2.1"> 检测工作宜按<a href="#fig3.2.1">图3.2.1</a>的程序进行。</span></p>
+
+   <div align="center"><img id="fig3.2.1" src="./_static/fig/3.2.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图3.2.1 检测工作程序</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig3.2.1'));</script>
+
+ <p style="text-align:justify "><a href="#id3.2.2"> 3.2.2</a> <span id="id3.2.2"> 现场和有关资料的调查，应包括下列工作内容：</span></p>
+ <ol>
+ <li>明确委托方的检测目的和具体要求，并了解以往检测情况；</li>
+ <li>收集被检测水运工程混凝土结构的设计图纸、设计变更、施工记录和施工验收等资料；</li>
+ <li>调查被检测水运工程混凝土结构所处环境条件、现状缺陷、使用期间的维修和加固情况、用途和荷载变更情况；</li>
+ <li>向工程相关人员进行调查。</li>
+ </ol>   
+ <p style="text-align:justify "><a href="#id3.2.3"> 3.2.3</a> <span id="id3.2.3"> 检测方案应包括下列主要内容：</span></p>
+ <ol>
+ <li>工程概况，主要包括工程规模、结构类型、设计单位、施工单位、监理单位、建造年代和工程相关重大事件等；</li>
+ <li>检测目的或委托方的检测要求；</li>
+ <li>检测依据，主要包括检测所依据的标准及有关的技术资料等；</li>
+ <li>检测项目、选用的检测方法和检测的数量；</li>
+ <li>检测人员和仪器设备情况；</li>
+ <li>检测工作计划进度和检测报告计划提交时间；</li>
+ <li>所需要的配合工作；</li>
+ <li>检测中的安全措施；</li>
+ <li>检测中的环保措施。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id3.2.4"> 3.2.4</a> <span id="id3.2.4"> 检测时应确保所使用的仪器设备在检定或校准周期内，并处于正常状态。仪器设备的精度应满足检测项目的要求。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.5"> 3.2.5</a> <span id="id3.2.5"> 检测的原始记录，应记录在专用记录纸上，数据准确、字迹清晰、信息完整，不得追记、涂改，如有笔误应进行杠改。当采用自动记录时，应符合有关要求。原始记录必须由检测人员签字。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.6"> 3.2.6</a> <span id="id3.2.6"> 现场检测宜选用对混凝土结构无损伤的检测方法。当选用局部破损的取样检测方法或原位检测方法时，宜选择结构构件受力较小部位，且不得损害结构安全性。</span></p> 
+ <p style="text-align:justify "><a href="#id3.2.7"> 3.2.7</a> <span id="id3.2.7"> 现场检测的测区和测点应有明晰标注和编号，标注和编号至少应保留至检测工作完成。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.8"> 3.2.8</a> <span id="id3.2.8"> 现场取样的试件或试样应予以标识并妥善保存。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.9"> 3.2.9</a> <span id="id3.2.9"> 现场检测工作结束后，应及时修补因检测造成的混凝土结构损伤。</span></p> 
+ <p style="text-align:justify "><a href="#id3.2.10"> 3.2.10</a> <span id="id3.2.10"> 当发现检测数据不足时，应进行补充检测。</span></p>
+ <p style="text-align:justify "><a href="#id3.2.11"> 3.2.11</a> <span id="id3.2.11"> 检测数据计算分析工作完成后，应按时提交检测报告。</span></p>
+
+
+3.3 抽样原则
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.3.1"> 3.3.1</a> <span id="id3.3.1"> 验证性检测的项目应进行随机抽样，且样本容量应符合<a href="#B3.3.1">表3.3.1</a>的规定。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.3.1">表3.3.1 主要混凝土结构的抽检样本数量</b></caption>	
+              
+		    <tr>
+		        <td  align="center" width="200px" id="dhbg">检测项目</td>
+		        <td  align="center" width="350px" id="dhbg">检测对象</td>
+                <td  align="center" width="350px" id="dhbg">样本容量</td>
+		    </tr>
+		    <tr>
+		        <td align="center"   rowspan="3" id="dhbg">混凝土强度</td>
+				<td align="center"  id="dhbg">桩、梁、板</td>
+                <td align="center"  id="dhbg">1%~2%且不少于5件</td>
+            </tr>
+		    <tr>
+		        <!-- <td></td> -->	
+				<td align="center"  id="dhbg">沉箱、扶壁、圆筒</td>
+                <td align="center"  id="dhbg">5%~10%且不少于5件</td>
+            </tr>
+		    <tr>
+		        <!-- <td></td> -->	
+				<td align="center"  id="dhbg">闸墙、坞墙、挡墙</td>
+                <td align="center"  id="dhbg">5%~10%且不少于5件</td>
+            </tr>	
+		    <tr>
+		        <td align="center"   rowspan="3" id="dhbg">保护层厚度</td>
+				<td align="center"  id="dhbg">桩、梁、板</td>
+                <td align="center"  id="dhbg">1%~2%且不少于3件</td>
+            </tr>
+		    <tr>
+		        <!-- <td></td> -->	
+				<td align="center"  id="dhbg">沉箱、扶壁、圆筒</td>
+                <td align="center"  id="dhbg">10%且不少于3件</td>
+            </tr>
+		    <tr>
+		        <!-- <td></td> -->	
+				<td align="center"  id="dhbg">闸墙、坞墙、挡墙</td>
+                <td align="center"  id="dhbg">5%且不少于3段</td>
+            </tr>
+		    <tr>
+		        <td align="center"  id="dhbg">抗氯离子渗透性能</td>
+				<td align="center"   rowspan="2" id="dhbg">处于浪溅区和水位变动区的梁、板、沉箱、扶壁和挡浪墙</td>				
+                <td align="center"  id="dhbg">不大于20000 m<sup>3</sup>的同类实体抽检一次，每次抽检钻取芯样试件数量不少于3个</td>
+            </tr>
+		    <tr>
+		        <td align="center"  id="dhbg">抗冻性能</td>
+				<!-- <td></td> -->
+                <td align="center"  id="dhbg">同一配合比且同一年度施工实体抽检一次，每次抽检钻取芯样试件数量不少于9个</td>
+            </tr>
+		    <tr>
+		        <td align="center"   rowspan="2" id="dhbg">面层厚度</td>
+				<td align="center"  id="dhbg">道路</td>
+                <td align="center"  id="dhbg">长度不大于1000 m 抽检一个测点，且不少于3个测点</td>
+            </tr>
+		    <tr>
+		        <!-- <td></td> -->	
+				<td align="center"  id="dhbg">堆场</td>
+                <td align="center"  id="dhbg">面积不大于5000 m<>sup2</sup>抽检一个测点，且不少于3个测点</td>
+            </tr>
+		</table>
+ <p></p>
+ <p style="text-align:justify "><a href="#id3.3.2"> 3.3.2</a> <span id="id3.3.2"> 按检测批检测的项目，在检测方法未明确规定抽样方法及样本容量情况下，应进行随机抽样，其最小样本容量不宜小子<a href="#B3.3.2">表3.3.2</a>的巍定，并同时符合<a href="#B3.3.1">表3.3.1</a>的规定。</span></p>
+ 
+ .. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B3.3.1">表3.3.1 主要混凝土结构的抽检样本数量</b></caption>	
+              
+		    <tr>
+		        <td  align="center" width="210px" rowspan="2" id="dhbg">检测批的容量</td>
+		        <td  align="center" colspan="3" id="dhbg">样本最小容量</td>
+                <!-- <td></td> -->
+			    <!-- <td></td> -->	
+		        <td  align="center" width="210px" rowspan="2"  id="dhbg">检测批的容量</td>
+		        <td  align="center" colspan="3" id="dhbg">样本最小容量</td>
+                <!-- <td></td> -->
+			    <!-- <td></td> -->				
+		    </tr>
+		    <tr>
+			    <!-- <td></td> -->
+		        <td align="center" width="80px"  id="dhbg">A</td>
+				<td align="center" width="80px" id="dhbg">B</td>
+                <td align="center" width="80px" id="dhbg">C</td>
+			    <!-- <td></td> -->
+		        <td align="center" width="80px" id="dhbg">A</td>
+				<td align="center" width="80px" id="dhbg">B</td>
+                <td align="center" width="80px" id="dhbg">C</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> ≤15</td>
+		        <td align="center"  id="dhbg"> 3</td>
+				<td align="center"  id="dhbg"> 3</td>
+                <td align="center"  id="dhbg"> 5</td>
+			    <td align="center"  id="dhbg"> 501~1200</td>
+		        <td align="center"  id="dhbg"> 32</td>
+				<td align="center"  id="dhbg"> 80</td>
+                <td align="center"  id="dhbg"> 125</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> 16~25</td>
+		        <td align="center"  id="dhbg"> 3</td>
+				<td align="center"  id="dhbg"> 5</td>
+                <td align="center"  id="dhbg"> 8</td>
+			    <td align="center"  id="dhbg"> 121~3200</td>
+		        <td align="center"  id="dhbg"> 50</td>
+				<td align="center"  id="dhbg"> 125</td>
+                <td align="center"  id="dhbg"> 200</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> 26~50</td>
+		        <td align="center"  id="dhbg"> 5</td>
+				<td align="center"  id="dhbg"> 8</td>
+                <td align="center"  id="dhbg"> 13</td>
+			    <td align="center"  id="dhbg"> 3201~10000</td>
+		        <td align="center"  id="dhbg"> 80</td>
+				<td align="center"  id="dhbg"> 200</td>
+                <td align="center"  id="dhbg"> 315</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> 51~90</td>
+		        <td align="center"  id="dhbg"> 5</td>
+				<td align="center"  id="dhbg"> 13</td>
+                <td align="center"  id="dhbg"> 20</td>
+			    <td align="center"  id="dhbg"> 10001~35000</td>
+		        <td align="center"  id="dhbg"> 125</td>
+				<td align="center"  id="dhbg"> 315</td>
+                <td align="center"  id="dhbg"> 500</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> 91~150</td>
+		        <td align="center"  id="dhbg"> 8</td>
+				<td align="center"  id="dhbg"> 20</td>
+                <td align="center"  id="dhbg"> 32</td>
+			    <td align="center"  id="dhbg"> 35001~15000</td>
+		        <td align="center"  id="dhbg"> 200</td>
+				<td align="center"  id="dhbg"> 500</td>
+                <td align="center"  id="dhbg"> 800</td>				
+            </tr>			
+		    <tr>
+			    <td align="center"  id="dhbg"> 150~280</td>
+		        <td align="center"  id="dhbg"> 13</td>
+				<td align="center"  id="dhbg"> 32</td>
+                <td align="center"  id="dhbg"> 50</td>
+			    <td align="center"  id="dhbg"> 150001~500000</td>
+		        <td align="center"  id="dhbg"> 315</td>
+				<td align="center"  id="dhbg"> 1250</td>
+                <td align="center"  id="dhbg"> 2000</td>				
+            </tr>
+		    <tr>
+			    <td align="center"  id="dhbg"> 281~500</td>
+		        <td align="center"  id="dhbg"> 20</td>
+				<td align="center"  id="dhbg"> 50</td>
+                <td align="center"  id="dhbg"> 80</td>
+			    <td align="center"  id="dhbg"> > 500000</td>
+		        <td align="center"  id="dhbg"> 500</td>
+				<td align="center"  id="dhbg"> 1250</td>
+                <td align="center"  id="dhbg"> 2000</td>				
+            </tr>
+		</table>
+  <p style="text-indent:2em;" ><font size="2">注：检测类别A适用于除第3.3.1 条规定检测项目外的水运工程提凝土结构实体验证性检测的项目；检测类别B适用于监控水运工程棍凝土工程施工质量检测的项目；检测类别C适用于水运工程混凝土结构工程质量的实体检测及水运工程混凝土结构现状性能的实体检测。</font></p>
+
+ <p style="text-align:justify "><a href="#id3.3.3"> 3.3.3</a> <span id="id3.3.3"> 当为下列情况时，检测对象可以是单个样本或部分样本，但检测结论不得扩大到未检测的构件或范围：</span></p>
+  <ol>
+ <li>委托方指定检测对象或范围；</li>
+ <li>因环境侵蚀、爆炸、撞击、灾害以及人为因素等造成部分构件损伤时；</li>
+ <li>混凝土结构为单个构件；</li>
+ <li>当检测批的检测结果不能给出评定结论时，可提供单个构件的检测结果。</li> 
+ </ol>
+ 
+ 
+3.4 检测数据整理
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.4.1"> 3.4.1</a> <span id="id3.4.1"> 数据的修约应符合现行国家标准《数值修约规则与极限数值的表示和判定》（GB 8170）的有关规定。</span></p>
+ <p style="text-align:justify "><a href="#id3.4.2"> 3.4.2</a> <span id="id3.4.2"> 异常数据的舍弃应符合现行国家标准《正态样本异常值的判断和处理》（GB 4883）的有关规定。</span></p>
+
+
+3.5 检测报告
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id3.5.1"> 3.5.1</a> <span id="id3.5.1"> 水运工程混凝土结构实体检测报告应给出所检测项目的检测结果。水运工程混凝土结构实体验证性检测和混凝土结构工程质量实体检测的报告应做出所检测项目的结果是否符合设计文件要求或相应检验标准的规定。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.2"> 3.5.2</a> <span id="id3.5.2"> 检测报告应结论明确、用词规范、文字简练，对于容易混淆的术语和概念可予以书面解释。</span></p>
+ <p style="text-align:justify "><a href="#id3.5.3"> 3.5.3</a> <span id="id3.5.3"> 检测报告至少应包括下列内容：</span></p>
+ <ol>
+    <li>委托单位名称；</li>
+    <li>工程概况，包括工程名称、规模、结构类型、施工日期及现状等；</li>
+    <li>设计单位、施工单位及监理单位名称；</li>
+    <li>检测原因、检测目的，以往检测情况概述；</li>
+    <li>检测项目、检测方法及依据的标准；</li>
+    <li>主要仪器设备及状态；</li>
+    <li>抽样方案及数量；</li>
+    <li>检测日期及报告完成日期；</li>
+    <li>检测数据、分析、检测结果及检测结论；</li>
+    <li>主检、审核和批准人员的签名，盖与检测单位名称相符的检测章、专用检测标识章和检测计量章等。</li>
+ </ol>
+

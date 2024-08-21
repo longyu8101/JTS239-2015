@@ -1,0 +1,128 @@
+8 面层厚度检测
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">8 面层厚度检测</h2>
+
+
+
+ <p style="text-align:justify "><a href="#id8.0.1"> 8.0.1</a> <span id="id8.0.1"> 面层厚度应通过钻取垂直贯穿于混凝土面层的芯样或钻孔测定。</span></p>
+ <p style="text-align:justify "><a href="#id8.0.2"> 8.0.2</a> <span id="id8.0.2"> 除验证性检测外，单个道路样本长度不宜大于100 m ；单个堆场样本面积不宜大于500<sub>2</sup>。</span></p>
+ <p style="text-align:justify "><a href="#id8.0.3"> 8.0.3</a> <span id="id8.0.3"> 每个样本应至少布置3个钻孔测点，且应均匀分布。</span></p>
+ <p style="text-align:justify "><a href="#id8.0.4"> 8.0.4</a> <span id="id8.0.4"> 钻孔宜采用钻头直径为50 mm以上的钻芯机。</span></p>
+ <p style="text-align:justify "><a href="#id8.0.5"> 8.0.5</a> <span id="id8.0.5"> 面层厚度测定应符合下列规定：</span></p>
+ <ol>
+  <li>取出芯样，找出芯样或孔壁面层与下层的分界面；</li>
+  <li>用钢板尺、游标卡尺或深度游标卡尺沿圆周对称的十字方向四处，量测芯样表面至下层界面的高度或孔壁表面边缘至下层界面的高度，按<a href="#ideq8.0.5">式(8.0.5)</a><span id="ideq8.0.5">计算得到该测点混凝土面层厚度。</li>
+ </ol>
+
+$$x_{i}=\\dfrac{1}{4}\\sum_{j=1}^{4} x_{i,j}\\tag{8.0.5}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>x</i><sub>i</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>测点面层厚度（mm），精确至0.5 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>x</i><sub><i>x,j</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>测点第<i>j</i>处面层厚度（mm），精确至1 mm。</td>
+ </tr>
+ </table>
+ <p></p>
+
+
+
+ <p style="text-align:justify "><a href="#id8.0.6"> 8.0.6</a> <span id="id8.0.6"> 面层厚度平均值和标准差应按<a href="#ideq8.0.6.1">式(8.0.6-1)</a><span id="ideq8.0.6.1">和<a href="#ideq8.0.6.2">式(8.0.6-2)</a><span id="ideq8.0.6.2">计算，面层厚度代表值应按<a href="#ideq8.0.6.3">式(8.0.6-3)</a><span id="ideq8.0.6.3">计算。</span></p>
+ 
+$$x_{\\mathrm{m} }=\\dfrac{\\sum\\limits _{i=1}^{n} x_{i}}{n}\\tag{8.0.6-1}$$
+
+$$S_{\\mathrm{x} }=\\sqrt{\\dfrac{1}{n-1}\\sum\\limits _{i=1}^{n} (X_{i}-X_{\\mathrm{m} })^2} \\tag{8.0.6-2}$$ 
+
+$$x_{_\\mathrm{L} }=x_{\\mathrm{m} }-\\dfrac{t_{a}}{\\sqrt{n} }S_{\\mathrm{x} }\\tag{8.0.6-3}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>x</i><sub>m</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">面层厚度平均值（mm），精确至0.5 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>x</i><sub><i>i</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">第<i>i</i>测点面层厚度（mm），精确至0.5 mm。</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>n</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测点数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>S</i><sub><i>x</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">面层厚度标准差（mm），精确至0.5 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>x</i><sub><i>L</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">面层厚度代表值（mm），精确至0.5 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub><i>a</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">t分布表的系数，<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>t</mi><mrow><mrow><mi mathvariant="normal">a</mi></mrow></mrow></msub><mrow><mo>/</mo></mrow><msqrt><mi>n</mi></msqrt></math>可按附表M取值。</td>
+ </tr>    
+ </table>
+ <p></p>
+ 
+ <p style="text-align:justify "><a href="#id8.0.7"> 8.0.7</a> <span id="id8.0.7"> 面层厚度代表值和最小面层厚度满足<a href="#ideq8.0.7.1">式(8.0.7-1)</a><span id="ideq8.0.7.1">和<a href="#ideq8.0.7.2">式(8.0.7-2)</a><span id="ideq8.0.7.2">的要求时，面层厚度可判为合格，反之，判为不合格。</span></p>
+
+$$S_{\\mathrm{x} }=\\sqrt{\\dfrac{1}{n-1}\\sum\\limits _{i=1}^{n} (X_{i}-X_{\\mathrm{m} })^2} \\tag{8.0.7-1}$$ 
+
+$$x_{_\\mathrm{L} }=x_{\\mathrm{m} }-\\dfrac{t_{a}}{\\sqrt{n} }S_{\\mathrm{x} }\\tag{8.0.7-2}$$ 
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>x</i><sub>L</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">面层厚度代表值（mm），精确至0.5 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>x</i><sub>s</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">设计面层厚度（mm）；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>Δ</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">面层厚度允许负偏差（mm），对道路、堆场Δ取-5 mm;；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>x</i><sub>min</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">面层厚度最小值（mm），精确至0.5 mm；</td>
+ </tr>
+ </table>
+ <p></p>
+
+:math:`\ `  

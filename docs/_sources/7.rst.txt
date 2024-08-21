@@ -1,0 +1,313 @@
+7 混凝土中钢筋检测
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">7 混凝土中钢筋检测</h2>
+
+
+7.1 保护层厚度检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 钢筋保护层厚度的检测可采用非破损或局部破损的方法。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.2"> 7.1.2</a> <span id="id7.1.2"> 钢筋保护层厚度检测宜采用电磁感应原理的测定仪或雷达探测原理的测定仪。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.3"> 7.1.3</a> <span id="id7.1.3"> 保护层测定仪应进行校准，其校准及维护方法应符合附录L的规定。测定仪校准时的检测误差应满足<a href="#B7.1.3">表7.1.3</a>的要求。</span></p>
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="7.1.3">表7.1.3 仪器校准检测允许误差</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="225px" id="dhbg">保护层厚度<i>C</i><sub>s</sub>（mm）</td>
+		     <td  align="center" width="225px" id="dhbg"><i>C</i><sub>s</sub> < 50</td>
+				 <td  align="center" width="225px" id="dhbg">50≤<i>C</i><sub>s</sub>< 60</td>
+         <td  align="center" width="225px" id="dhbg">60≤<i>C</i><sub>s</sub>< 80</td>
+		    </tr>
+		    <tr>
+		     <td align="center">误差（mm）</td>
+		     <td align="center">±1</td>
+		     <td align="center">±2</td>
+		     <td align="center">±3</td>                  
+		    </tr>
+		</table> 
+  <p> </p>
+ 
+ <p style="text-align:justify "><a href="#id7.1.4"> 7.1.4</a> <span id="id7.1.4"> 检测面宜为混凝土表面，并应清洁、平整。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.5"> 7.1.5</a> <span id="id7.1.5"> 电磁感应原理的钢筋保护层测定仪检测方法应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.5.1"> 7.1.5.1</a> <span id="id7.1.5.1"> 检测前调查资料除应符合第3.2.2条的规定外，尚应调查如下内容：</span></p>
+ <ol>
+ <li>混凝土是否采用带有铁磁性的原材料配制；</li>
+ <li>被检测混凝土结构的钢筋品种、牌号、规格、设计钢筋保护层厚度、结构中是否有预留管道、金属预埋件等。</li> 
+ </ol>
+ <p style="text-align:justify "><a href="#id7.1.5.2"> 7.1.5.2</a> <span id="id7.1.5.2"> 测区设置应符合下列规定：</span></p>
+ <ol>
+ <li>每个样本选取至少一个测区，每个测区至少包含6根钢筋；</li>
+ <li>当对单个样本进行检测时，单个样本选取至少3个测区；</li> 
+ <li>桩、梁类构件对所抽取构件所有受力主筋进行检测；</li>
+ <li>相同浇筑面上测区间距一般不小于2 m;</li> 
+ <li>选取测点时，避开多层、网格状钢筋交叉点及钢筋接头位置，避开混凝土中预埋设铁件、金属管等铁磁性物质，避开强交变电磁场以及周边较大金属结构；</li>
+ <li>每根钢筋选取2~3个测点，见图7.1.5。</li>   
+ </ol>
+
+ <div align="center"><img id="fig7.1.5" src="./_static/fig/7.1.5.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 7.1.5 测区和测点示意图<br/>1-测区；2-测点；3-箍筋；4-主筋；5-混凝土表面</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('fig7.1.5'));</script>
+
+ <p style="text-align:justify "><a href="#id7.1.5.3"> 7.1.5.3</a> <span id="id7.1.5.3"> 检测应符合下列规定：</span></p>
+ <ol>
+ <li>检测前，对钢筋保护层厚度测定仪进行预热和调零；</li>
+ <li>对被测钢筋进行初步定位，判断出箍筋、横筋和纵筋的位置，并在混凝土表面做好标记；</li> 
+ <li>根据保护层厚度设计值，在保护层测定仪上预设保护层厚度测量范围；当钢筋直径已知时，在保护层测定仪上预设钢筋直径；当钢筋直径未知时，采用保护层测定仪默认的钢筋直径；</li>
+ <li>每测点测试两遍，每次读取保护层厚度测定仪显示的最小值；当设计保护层厚度值小于50 mm时，两次重复测量允许偏差为l mm；当设计保护层厚度值不小于50 mm时，两次重复测量允许偏差为2 mm。</li> 
+ </ol>
+ <p style="text-align:justify "><a href="#id7.1.6"> 7.1.6</a> <span id="id7.1.6"> 遇到下列情况之一时，宜对电磁感应原理的保护层测定仪的检测数据进行修正：</span></p>
+  <ol>
+
+ <li> 设计保护层厚度值大于60 mm；</li>
+ <li> 钢筋直径未知；</li>
+ <li> 相邻钢筋过密，不满足钢筋最小净间距大于保护层厚度的条件；</li>
+ <li> 钢筋实际根数、位置与设计有较大偏差；</li>
+ <li> 采用具有铁磁性原材料配制混凝土；</li>
+ <li> 饰面层未清除；</li>
+ <li> 钢筋以及混凝土材质与校准试件有显著差异。 </li>
+ </ol>
+ <p style="text-align:justify "><a href="#id7.1.7"> 7.1.7</a> <span id="id7.1.7"> 采用电磁感应原理的保护层测定仪时，检测结果的修正应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.7.1"> 7.1.7.1</a> <span id="id7.1.7.1"> 修正时，应选取所测钢筋总数至少30%的钢筋且不少于6处修正保护层厚度，并以修正后的保护层厚度值进行合格判定。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.7.2"> 7.1.7.2</a> <span id="id7.1.7.2"> 钻孔或剔凿时不得损坏钢筋，应采用游标卡尺或钢尺进行实际保护层厚度的测量，并精确至0.1 mm。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.7.3"> 7.1.7.3</a> <span id="id7.1.7.3"> 总体修正量 atot 和修正的钢筋保护层厚度可分别按<a href="#ideq7.1.7.1">式(7.1.7-1)</a><span id="ideq7.1.7.1">和<a href="#ideq7.1.7.2">式(7.1.7-2)</a><span id="ideq7.1.7.2">计算。</span></p>
+
+$$\\Delta _{\\mathrm{tot} }=c_{\\mathrm{cor,m} }-c_{\\mathrm{m,0} }\\tag{7.1.7-1}$$
+
+$$c_{\\mathrm{m},i }=c_{\\mathrm{m},i0 }+\\Delta _{\\mathrm{tot} }\\tag{7.1.7-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>Δ</i><sub>tot</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">总体修正量（mm），精确至0.1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>c</i><sub>cor,m</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">用尺测得修正样本保护层厚度的平均值（mm），精确至0.1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>c</i><sub>m,0</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">检测得到的修正样本保护层厚度的平均值（mm），精确至0.1 mm；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>c</i><sub>m,<i>i</i></sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">修正后保护层厚度值（MPa），精确至0.1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>c</i><sub>m,<i>i</i>0</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">修正前保护层厚度值（MPa），精确至0.1 mm。</td>
+ </tr>  
+ </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id7.1.8"> 7.1.8</a> <span id="id7.1.8"> 保护层厚度的合格点率计算应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.8.1"> 7.1.8.1</a> <span id="id7.1.8.1"> 受力钢筋的保护层厚度允许偏差应符合<a href="#B7.1.8">表7.1.8</a>的规定。</span></p>
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="7.1.8">表7.1.8 受力钢筋的保护层厚度允许偏差</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="450px" id="dhbg">构件种类</td>
+				 <td  align="center" width="450px" id="dhbg">允许偏差(mm)</td>
+		    </tr>
+		    <tr>
+         <td align="center" >桩、梁、板、沉箱、方块、扶壁和圆筒等</td>
+         <td align="center" >-5~+12</td>
+		    </tr>
+		    <tr>
+         <td align="center" >现浇闸墙、胸墙、坞墙和挡墙等</td>
+         <td align="center" >-5~+15</td>
+		    </tr>
+		</table>
+<p></p>
+
+ <p style="text-align:justify "><a href="#id7.1.8.2"> 7.1.8.2</a> <span id="id7.1.8.2"> 保护层厚度合格点率应按<a href="#ideq7.1.8">式(7.1.8)</a><span id="ideq7.1.8">计算。</span></p>
+
+$$h=\\dfrac{n_{\\mathrm{h}}}{n}\\times 100\\%\\tag{7.1.8}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="30px" align='left' id="eqzs"><i>h</i></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">保护层厚度合格点率；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>n</i><sub>h</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">保护层厚度合格测点数；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>n</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测点数。</td>
+ </tr> 
+ </table>
+ <p></p>
+
+ <p style="text-align:justify "><a href="#id7.1.9"> 7.1.9</a> <span id="id7.1.9"> 保护层厚度的判定应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.9.1"> 7.1.9.1</a> <span id="id7.1.9.1"> 当保护层厚度的负偏差大于<a href="#id7.1.8.1">第7.1.8.1款</a>规定的受力钢筋保护层厚度允许负偏差的1.5倍时，保护层厚度应判为初步不合格。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.9.2"> 7.1.9.2</a> <span id="id7.1.9.2"> 当保护层厚度判为初步不合格时，宜对初步不合格点逐点剔凿检测。当有测点钢筋保护层厚度的负偏差仍大于<a href="#id7.1.8.1">第7.1.8.1款</a>规定的受力钢筋保护层厚度允许负偏差1.5倍时，保护层厚度应判为不合格。</span></p>
+ <p style="text-align:justify "><a href="#id7.1.9.3"> 7.1.9.3</a> <span id="id7.1.9.3"> 当保护层厚度的负偏差不大于<a href="#id7.1.8.1">第7.1.8.1款</a>规定的受力钢筋保护层厚度允许负偏差的1.5倍时，保护层厚度的判定应符合下列规定：</span></p>
+  <ol>
+ <li>当保护层厚度合格点率不小于 80% 时，保护层厚度判为合格； </li>
+ <li>当保护层厚度合格点率小于80%但不小于70%时，抽取相等量的样本进行第二次检测，当第二次检测中出现且经剔凿检测后存在有测点钢筋保护层厚度的负偏差仍大于<a href="#id7.1.8.1">第7.1.8.1款</a>规定的受力钢筋保护层厚度允许负偏差的1.5倍时，保护层厚度判为不合格；</li> 
+ <li>在第二次检测中，钢筋保护层厚度的负偏差不大于<a href="#id7.1.8.1">第7.1.8.1款</a>规定的受力钢筋保护层厚度允许负偏差的1.5倍时，按两次抽检总和计算的保护层厚度合格点率不小80% 时，保护层厚度判为合格，否则判为不合格。</li>
+ </ol>
+
+
+
+7.2 钢筋锈蚀检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1"> 钢筋锈蚀状况的检测可选择剔凿取样检测方法或半电池电位测定方法。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.2"> 7.2.2</a> <span id="id7.2.2"> 遇到下列情况之一时，宜进行钢筋锈蚀检测：</span></p>
+ <ol>
+ <li>混凝土施工上步工序完工且间隔一年以上才施工下步工序； </li>
+ <li>混凝土结构中钢筋有可能发生锈蚀的迹象；</li>
+ <li>对现有混凝土结构中钢筋锈蚀状况有怀疑或需评估。</li>
+ </ol>
+ <p style="text-align:justify "><a href="#id7.2.3"> 7.2.3</a> <span id="id7.2.3"> 采用约定抽样的原则，样本容量和测区宜根据混凝土结构所处部位及其外观检查的结果确定，每种状况的样本容量不宜少于3个，每个样本的测区数量不宜少于3个。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4"> 7.2.4</a> <span id="id7.2.4"> 剔凿取样法检测应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4.1"> 7.2.4.1</a> <span id="id7.2.4.1"> 每个测区应至少取两根钢筋，每根钢筋截取1根长度不宜小于100 mm的钢筋试件。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4.2"> 7.2.4.2</a> <span id="id7.2.4.2"> 截取钢筋试件的部位应及时补焊钢筋。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4.3"> 7.2.4.3</a> <span id="id7.2.4.3"> 钢筋试件的剩余直径和失重率的测定应符合现行行业标准《水运工程混凝土试验规程》（JTJ 270）的有关规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4.4"> 7.2.4.4</a> <span id="id7.2.4.4"> 钢筋剩余直径测量的部位与方法应符合相应钢筋产品标准的规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.4.5"> 7.2.4.5</a> <span id="id7.2.4.5"> 钢筋剩余直径和失重率的代表值应取每种状况钢筋试件的剩余直径和失重率的平均值。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.5"> 7.2.5</a> <span id="id7.2.5"> 半电池电位法检测应符合下列规定。</span></p>
+ <p style="text-align:justify "><a href="#id7.2.5.1"> 7.2.5.1</a> <span id="id7.2.5.1"> 在测区上应布置测试网格，网格节点为测点，测点纵、横向间距宜为（100~300）mm；当相邻两点的测量值之差超过150 mV时，应适当缩小测点间距，测区面积不宜大于5000 mm×5000 mm，其中的测点数不宜少于30个，测点与样本边缘的距离应大50mm。</span></p> 
+ <p style="text-align:justify "><a href="#id7.2.5.2"> 7.2.5.2</a> <span id="id7.2.5.2"> 检测前调查资料应符合第3.2.2条的规定，并应根据设计图纸和施工资料等准确判断需检查钢筋的连续性。</span></p> 
+ <p style="text-align:justify "><a href="#id7.2.5.3"> 7.2.5.3</a> <span id="id7.2.5.3"> 检测环境温度应大于0℃，并应避免各种电磁场的干扰。</span></p> 
+ <p style="text-align:justify "><a href="#id7.2.5.4"> 7.2.5.4</a> <span id="id7.2.5.4"> 半电池电位法测试应符合现行行业标准《水运工程混凝土试验规程》（JTG 270）的有关规定。</span></p> 
+ <p style="text-align:justify "><a href="#id7.2.5.5"> 7.2.5.5</a> <span id="id7.2.5.5"> 半电池电位法测试结果的表达应满足下列要求：</span></p> 
+  <ol>
+ <li>按一定的比例绘出测区平面图，标出相应测点位置的钢筋锈蚀电位，得到数据阵列；</li> 
+ <li>绘出电位等值线图，通过数值相等各点或内插各等值点绘出等值线，等值线差值一般为100 mV。</li>
+ </ol>
+
+
+ <p style="text-align:justify "><a href="#id7.2.5.6"> 7.2.5.6</a> <span id="id7.2.5.6"> 区域发生钢筋锈蚀的概率可按<a href="#B7.2.5">表7.2.5</a>判定。</span></p> 
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="7.2.5">表7.2.5 区域发生钢筋锈蚀概率</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="300px" id="dhbg">半电池电位</td>
+		     <td  align="center" width="200px" id="dhbg">负向大于－350 mV</td>
+				 <td  align="center" width="200px" id="dhbg">(-350 ~ －200) mV</td>
+         <td  align="center" width="200px" id="dhbg">正向大于－200 mV</td>
+		    </tr>
+		    <tr>
+		     <td align="center">区域发生钢筋锈蚀概率</td>
+		     <td align="center">> 90%</td>
+		     <td align="center">50%</td>
+		     <td align="center">< 10%</td>                  
+		    </tr>
+		</table> 
+  <p> </p>
+
+
+
+ <p style="text-align:justify "><a href="#id7.2.5.7"> 7.2.5.7</a> <span id="id7.2.5.7"> 半电池电位法测试结果应进行剔凿验证。</span></p>       
+
+:math:`\ ` 
