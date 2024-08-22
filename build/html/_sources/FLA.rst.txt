@@ -164,15 +164,204 @@ A.3 声时值初读数的测定
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#idA.3.1"> A.3.1</a> <span id="idA.3.1">  </span></p>
+ <p style="text-align:justify"><a href="#idA.3.1"> A.3.1</a> <span id="idA.3.1"> 平面换能器声时值初读数的测定可选用下列方法之一：</span></p>
+  <ol>
+  <li> 将换能器直接精合，读取声时值初读数，按<a href="#ideqA.3.1.1">式(A.3.1-1)</a><span id="ideqA.3.1.1"> 计算声时值初读数。</li>
+ </ol>
 
- <p style="text-align:justify"><a href="#idA.3.2"> A.3.2</a> <span id="idA.3.2">  </span></p>
+$$t_{0}=t_{\\mathrm{k}}+t\\tag{A.3.1-1}$$
 
- <p style="text-align:justify"><a href="#idA.3.3"> A.3.3</a> <span id="idA.3.3">  </span></p>
+.. raw:: html
 
- <p style="text-align:justify"><a href="#idA.3.4"> A.3.4</a> <span id="idA.3.4">  </span></p>
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="20px" align='left' id="eqzs"><i>t</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>k</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">开机显示声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测试所得声时值（μs），精确至0.1 µs。</td>
+ </tr>  
+ </table>
+ <p></p>
 
- <p style="text-align:justify"><a href="#idA.3.5"> A.3.5</a> <span id="idA.3.5">  </span></p>
+
+
+  <ol start="2">
+  <li> 将换能器搞合于标准棒上，读取声时值，按<a href="#ideqA.3.1.2">式(A.3.1-2)</a><span id="ideqA.3.1.2">计算声时值初读数。</li>
+ </ol>
+
+$$t_{0}=t_{\\mathrm{k} }+t-t^{'}\\tag{A.3.1-2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="20px" align='left' id="eqzs"><i>t</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>k</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">开机显示声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测试所得声时值（μs），精确至0.1 µs；</td>
+ </tr> 
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sup>'</sup></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">标准棒的声时值（μs），精确至0.1 µs。</td>
+ </tr>   
+ </table>
+ <p></p>
+
+ <p style="text-align:justify"><a href="#idA.3.2"> A.3.2</a> <span id="idA.3.2"> 径向换能器声时值初读数应采用声时值一测距法测定。两个径向换能器应保持轴线平行，置于同一非金属水槽的饮用水中同一水平高度，先将两个换能器内边缘间距<i>l</i><sub>1</sub>调节在200 mm的位置，再将两个换能器内边缘间距<i>l</i><sub>2</sub>调节在100 mm的位置，分别读取相应声时值<i>t</i><sub>1</sub>、<i>t</i><sub>2</sub>。声时值初读数<i>t</i><sub>0</sub>应按<a href="#ideqA.3.2">式(A.3.2)</a><span id="ideqA.3.2">计算。</span></p>
+
+
+$$t_{0}=(l_{1}t_{2}-l_{2}t_{1})/(l_{1}-l_{2})\\tag{A.3.2}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="50px" align='left' id="eqzs"><i>t</i><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>l</i><sub>1</sub>、<i>l</i><sub>2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">两个换能器内边缘间距（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>1</sub>、<i>t</i><sub>2</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">测试所得声时值（μs），精确至0.1 µs。</td>
+ </tr>  
+ </table>
+ <p></p>
+
+
+ <p style="text-align:justify"><a href="#idA.3.3"> A.3.3</a> <span id="idA.3.3"> 径向换能器在同一混凝土结构或构件的两个混凝土钻孔中对测时的声时值初读数<i>t</i><sub>2</sub><sup>'</sup>；应按<a href="#ideqA.3.3">式(A.3.3)</a><span id="ideqA.3.3">计算。</span></p>
+
+$$t_{0}^{'}=t_0+(d_1-d)/v_{\\mathrm{w} }\\tag{A.3.3}$$
+
+.. raw:: html
+
+ <table border="0" style="font-family:times new roman" id="gongshi">
+ <tr>
+ <td width="50px" align='center' id="eqzs">式中</td>
+ <td width="20px" align='left' id="eqzs"><i>t</i><sup>'</sup><sub>0</sub></td>
+ <td width="40px" align='left' id="eqzs">——</td>
+ <td id="eqzs">钻孔中测试的声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>t</i><sub>0</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">声时值初读数（μs），精确至0.1 µs；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>d</i><sub>1</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">声测孔直径（mm），精确至1 mm；</td>
+ </tr>  
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>d</i></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">径向换能器直径（mm），精确至1 mm；</td>
+ </tr>
+ <tr>
+ <td id="eqzs"> </td>
+ <td id="eqzs"><i>v</i><sub>w</sub></td>
+ <td id="eqzs">——</td>
+ <td id="eqzs">水中超声波速度（km/s），可按<a href="#BA.3.3">表A.3.3</a>取值。</td>
+ </tr>  
+ </table>
+ <p></p>
+
+
+.. raw:: html
+
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+
+		<table id="biaoge" style="font-family:times new roman">
+
+         <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="BA.3.3">表A.3.3 水中超声波速度</b></caption>	
+              
+		    <tr>
+		     <td  align="center" width="300px" id="dhbg">水温度（℃）</td>
+		     <td  align="center" width="100px" id="dhbg">5</td>
+				 <td  align="center" width="100px" id="dhbg">10</td>
+         <td  align="center" width="100px" id="dhbg">15</td>
+		     <td  align="center" width="100px" id="dhbg">20</td>
+				 <td  align="center" width="100px" id="dhbg">25</td>
+         <td  align="center" width="100px" id="dhbg">30</td> 
+		    </tr>
+		    <tr>
+		     <td align="center" >水中超声波速度（km/s）</td>
+         <td align="center" >1.45</td>
+         <td align="center" >1.46</td>
+         <td align="center" >1.47</td>
+         <td align="center" >1.48</td>
+         <td align="center" >1.49</td>    
+         <td align="center" >1.50</td>
+		    </tr>
+		</table>
+ <p></p>
+
+
+
+ <p style="text-align:justify"><a href="#idA.3.4"> A.3.4</a> <span id="idA.3.4"> 径向换能器在预埋声测管中检测时的声时值初读数应按<a href="#ideqA.3.4">式(A.3.4)</a><span id="ideqA.3.4">计算。</span></p>
+
+
+
+
+ <p style="text-align:justify"><a href="#idA.3.5"> A.3.5</a> <span id="idA.3.5"> 当采用一只平面换能器和一只径向换能器进行检测时，声时值初读数可取平面换能器声时值初读数和径向换能器声时值初读数之和的1/2。</span></p>
 
 
 A.4 维护
@@ -180,13 +369,13 @@ A.4 维护
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#idA.4.1"> A.4.1</a> <span id="idA.4.1">  </span></p>
+ <p style="text-align:justify"><a href="#idA.4.1"> A.4.1</a> <span id="idA.4.1"> 发现仪器工作不正常时，应停止工作。</span></p>
 
- <p style="text-align:justify"><a href="#idA.4.2"> A.4.2</a> <span id="idA.4.2">  </span></p>
+ <p style="text-align:justify"><a href="#idA.4.2"> A.4.2</a> <span id="idA.4.2"> 仪器不得在有强腐蚀性气体环境或强电磁干扰的环境下工作。</span></p>
 
- <p style="text-align:justify"><a href="#idA.4.3"> A.4.3</a> <span id="idA.4.3">  </span></p>
+ <p style="text-align:justify"><a href="#idA.4.3"> A.4.3</a> <span id="idA.4.3"> 仪器使用完毕后，应清除传感器、导线上的油污、尘土，仪器各配件均应妥善放于仪器箱内，放于通风和干燥环境。每隔3个月宜通电2 h。</span></p>
 
- <p style="text-align:justify"><a href="#idA.4.4"> A.4.4</a> <span id="idA.4.4">  </span></p>
+ <p style="text-align:justify"><a href="#idA.4.4"> A.4.4</a> <span id="idA.4.4"> 仪器在使用及搬运过程中应防止冲击。</span></p>
 
 
 

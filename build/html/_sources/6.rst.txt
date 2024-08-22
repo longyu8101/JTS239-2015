@@ -112,7 +112,7 @@ $$Q_{\\mathrm{max} }^{'}\\leqslant1.15 Q_{\\mathrm{s} }\\tag{6.3.9-6}$$
  <table border="0" style="font-family:times new roman" id="gongshi">
  <tr>
  <td width="50px" align='center' id="eqzs">式中</td>
- <td width="30px" align='left' id="eqzs"><i>Q</i><sub>m</sub><sup>'</sup></td>
+ <td width="30px" align='left' id="eqzs"><i>Q</i><sup>'</sup><sub>m</sub></td>
  <td width="40px" align='left' id="eqzs">——</td>
  <td id="eqzs">电通量平均值（C），精确至1 C；</td>
  </tr>
@@ -136,7 +136,7 @@ $$Q_{\\mathrm{max} }^{'}\\leqslant1.15 Q_{\\mathrm{s} }\\tag{6.3.9-6}$$
  </tr>
  <tr>
  <td id="eqzs"> </td>
- <td id="eqzs"><i>Q</i><sub>max</sub><sup>'</sup></td>
+ <td id="eqzs"><i>Q</i><sup>'</sup><sub>max</sub></td>
  <td id="eqzs">——</td>
  <td id="eqzs">电通量代表值的最大值（C），精确至1 C。</td>
  </tr> 
@@ -202,19 +202,19 @@ $$D_{\\mathrm{max} }^{'}\\leqslant1.15 D_{\\mathrm{s} }\\tag{6.3.10-6}$$
  <table border="0" style="font-family:times new roman" id="gongshi">
  <tr>
  <td width="50px" align='center' id="eqzs">式中</td>
- <td width="30px" align='left' id="eqzs"><i>Q</i><sub>m</sub><sup>'</sup></td>
+ <td width="30px" align='left' id="eqzs"><i>D</i><sup>'</sup><sub>m</sub></td>
  <td width="40px" align='left' id="eqzs">——</td>
  <td id="eqzs">氯离子扩散系数平均值（×10<sup>-12</sup> m<sup>2</sup>/s），精确至0.1×10<sup>-12</sup> m<sup>2</sup>/s；</td>
  </tr>
  <tr>
  <td id="eqzs"> </td>
- <td id="eqzs"><i>Q</i><sub>j</sub></td>
+ <td id="eqzs"><i>D</i><sub>j</sub></td>
  <td id="eqzs">——</td>
  <td id="eqzs">第<i>j</i>氯离子扩散系数测定值（×10<sup>-12</sup> m<sup>2</sup>/s），精确至0.1×10<sup>-12</sup> m<sup>2</sup>/s；</td>
  </tr>
  <tr>
  <td id="eqzs"> </td>
- <td id="eqzs"><i>Q</i><sub>s</sub></td>
+ <td id="eqzs"><i>D</i><sub>s</sub></td>
  <td id="eqzs">——</td>
  <td id="eqzs">设计氯离子扩散系数的最大值（×10<sup>-12</sup> m<sup>2</sup>/s）；</td>
  </tr>
@@ -226,7 +226,7 @@ $$D_{\\mathrm{max} }^{'}\\leqslant1.15 D_{\\mathrm{s} }\\tag{6.3.10-6}$$
  </tr>
  <tr>
  <td id="eqzs"> </td>
- <td id="eqzs"><i>Q</i><sub>max</sub><sup>'</sup></td>
+ <td id="eqzs"><i>D</i><sup>'</sup><sub>max</sub></td>
  <td id="eqzs">——</td>
  <td id="eqzs">氯离子扩散系数测定值的最大值（×10<sup>-12</sup> m<sup>2</sup>/s），精确至0.1×10<sup>-12</sup> m<sup>2</sup>/s。</td>
  </tr> 
