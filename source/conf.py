@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '水运工程混凝土结构<br/><br/>实体检测技术规程<br/><br/>JTS 239-2015'
-copyright = '哈尔滨工业大学' 
+copyright = ' ' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
