@@ -1,0 +1,33 @@
+2 术语
+==============
+
+.. raw:: html
+
+  <h2 id="test111">2 术语</h2>
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id2.0.1"> 2.0.1</a> <span id="id2.0.1">实体检测&emsp;Solid Inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;" > 对混凝土结构或构件实施的原位或取样的检验、测量、测试、检查和判定。</p>
+ <p style="text-align:justify"><a href="#id2.0.2"> 2.0.2</a> <span id="id2.0.2">随机抽样&emsp;Random Sampling Inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 使检测批中每个个体具有相同被抽检概率的抽样方法。</p>
+ <p style="text-align:justify"><a href="#id2.0.3"> 2.0.3</a> <span id="id2.0.3">约定抽样&emsp;Agreed Sampling Inspection</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 由于条件限制或出于特定的检测目的，由委托方确定或与检测方协商确定被检测构件抽取样本的方法。</p> 
+ <p style="text-align:justify"><a href="#id2.0.4"> 2.0.4</a> <span id="id2.0.4">检验批&emsp;Inspection Lot</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 检测项目相同、质量要求和生产工艺等基本相同，由一定数量构件或区域等构成的检测对象。</p>
+ <p style="text-align:justify"><a href="#id2.0.5"> 2.0.5</a> <span id="id2.0.5">样本&emsp;Sample</span></p>
+ <p style="text-align:justify;text-indent:2em;"> 按一定程序从检测批中抽取的一个或多个个体。</p>
+
+
+.. raw:: html
+
+    <style>
+        #abc{
+            height:200px;
+            background-color: #f0ffff;
+        }
+    </style>
+ </head>
+ <body>
+    <div id="abc"></div>
+ </body>

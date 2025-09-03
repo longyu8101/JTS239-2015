@@ -355,7 +355,7 @@ $$L_{\\mathrm{max} }\\leqslant 350\\tag{6.4.4-5}$$
  <p style="text-align:justify "><a href="#id6.6.5"> 6.6.5</a> <span id="id6.6.5"> 涂层粘结力的试验应按附录 规定的方法进行。</span></p>
  <p style="text-align:justify "><a href="#id6.6.6"> 6.6.6</a> <span id="id6.6.6"> 粘结力试验结束后应及时对测点进行修补。</span></p>
  <p style="text-align:justify "><a href="#id6.6.7"> 6.6.7</a> <span id="id6.6.7"> 涂层质量的要求应符合下列规定。</span></p>
- <p style="text-align:justify "><a href="#id6.6.7.1"> 6.6.7.1</a> <span id="id6.6.7.1"> 满足设计干膜厚度的测点数量应不少于80%，，且最小干膜厚度不应小于设计干膜厚度的80%。</span></p>
+ <p style="text-align:justify "><a href="#id6.6.7.1"> 6.6.7.1</a> <span id="id6.6.7.1"> 满足设计干膜厚度的测点数量应不少于80%，且最小干膜厚度不应小于设计干膜厚度的80%。</span></p>
  <p style="text-align:justify "><a href="#id6.6.7.2"> 6.6.7.2</a> <span id="id6.6.7.2"> 干膜厚度平均值不应小于设计干膜厚度。</span></p>
  <p style="text-align:justify "><a href="#id6.6.7.3"> 6.6.7.3</a> <span id="id6.6.7.3"> 粘结力代表值应不小于1.5 MPa ，最小粘结力应不小于1.2 MPa。</span></p>
  <p style="text-align:justify "><a href="#id6.6.8"> 6.6.8</a> <span id="id6.6.8"> 单个样本涂层质量的判定应符合下列规定。</span></p> 

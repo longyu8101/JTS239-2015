@@ -114,7 +114,7 @@ $$x_{_\\mathrm{L} }=x_{\\mathrm{m} }-\\dfrac{t_{a}}{\\sqrt{n} }S_{\\mathrm{x} }\
  <td id="eqzs"> </td>
  <td id="eqzs"><i>Δ</i></td>
  <td id="eqzs">——</td>
- <td id="eqzs">面层厚度允许负偏差（mm），对道路、堆场Δ取-5 mm;；</td>
+ <td id="eqzs">面层厚度允许负偏差（mm），对道路、堆场Δ取-5 mm；</td>
  </tr>
  <tr>
  <td id="eqzs"> </td>

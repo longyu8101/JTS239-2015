@@ -1,0 +1,85 @@
+4 混凝土缺陷的检测
+==============================
+
+.. raw:: html
+
+  <h2 id="test111">4 混凝土缺陷的检测</h2>
+
+
+4.1 一般规定
+--------------------------------------  
+
+.. raw:: html
+
+ 
+ <p style="text-align:justify "><a href="#id4.1.11"> 4.1.11</a> <span id="id4.1.11"> 在实际检测中，加前置放大器后，超过5 m 距离所测超声波数值漂移较大，不稳定，因此本条规定超声波测距不宜超过5 m。</span></p>
+     
+ 
+
+4.2 均匀性检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.2.1"> 4.2.1</a> <span id="id4.2.1"> 本节增加了斜测的内容，适用范围更广。</span></p> 
+
+4.3 空洞、不密实区检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.3.7"> 4.3.7</a> <span id="id4.3.7"> 空洞尺寸估算原理图如<a href="#figt4.1">图4.1</a> 所示。设检测距离为<i>l</i>，空洞中心（在另一对测试面上声时最长的测点位置）距离为<i>l</i><sub>h</sub>，声波在空洞附近无缺陷混凝土中传播的试件平均值为<i>t</i><sub>m</sub>，绕空洞传播的时间（空洞处的最大声时）为<i>t</i><sub>h</sub>，空洞半径为<i>r</i>，设<i>X</i>= (<i>t</i><sub>h</sub> - <i>t</i><sub>m</sub>) /<i>t</i><sub>m</sub> × 100%;<i>Y</i>=<i>l</i><sub>h</sub>/<i>l</i> ;<i>Z</i>=<i>r</i>/<i>l</i>。根据<i>X</i>、<i>Y</i>值，可由<a href="#B4.1">表4.1</a>查得空洞半径<i>r</i>与测距<i>l</i>的比值 ，再计算空洞的大致半径<i>r</i>。</span></p> 
+
+ <div align="center"><img id="figt4.1" src="../_static/fig/t4.1.png" alt="Picture" width="400px"></div>
+  <p style="color: dimgray;text-align: center;">图 4.1 空洞尺寸估算原理图<br/>1-超声波在混凝土中传播路径；2-超声波经过空洞时最远传播路径；3-空洞；4-混凝土</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figt4.1'));</script>
+ 
+ <p style="text-align:justify;text-indent:2em;" > 当被测部位只有一对可供测试的表面时，只能按<a href="https://jts239-2015.readthedocs.io/en/latest/4.html#ideq4.3.7">式4.3.7</a>估算空洞半径。实践证明，由公式计算所得空洞尺寸比查表所得空洞尺寸略大一些。</p>
+
+ <div align="center"><img id="figtb4.1" src="../_static/fig/tb4.1.png" alt="Picture" ></div>
+  <p style="color: dimgray;text-align: center;">图 4.1 空洞尺寸估算原理图<br/>1-超声波在混凝土中传播路径；2-超声波经过空洞时最远传播路径；3-空洞；4-混凝土</p>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figtb4.1'));</script>
+
+
+4.4 裂缝检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.4.2"> 4.4.2</a> <span id="id4.4.2"> 裂缝宽度是验算混凝土结构安全性的依据，目前国内外市场出现了裂缝宽度测定仪，提高了测试精度。</span></p> 
+ <p style="text-align:justify "><a href="#id4.4.3"> 4.4.3</a> <span id="id4.4.3"> 先将不跨缝测试的混凝土声速<i>v</i><sub>p</sub>计算出来，再计算求得裂缝深度，提高测试结果的准确性。</span></p> 
+ <p style="text-align:justify;text-indent:2em;" > 本条参考了现行协会标准《超声法检测混凝土缺陷技术规程》（ CECS 21-2000 ）的有关规定。</p> 
+
+4.5 表面损伤层厚度检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.5.3"> 4.5.3</a> <span id="id4.5.3"> 混凝土表面损伤层检测，一般是将换能器放在同一测试面上进行单面平测，这种测试方法超声波接收信号较弱，换能器频率越高，接收信号越弱。因此，为保证信号具有一定幅值，读数准确，宜选用频率较低的平面换能器。</span></p> 
+ 
+4.7 灌注桩混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ <p style="text-align:justify "><a href="#id4.7.9"> 4.7.9</a> <span id="id4.7.9"> 本条参考了现行行业标准《建筑基桩检测技术规范》（JGJ 106-2014）的有关规定。</span></p> 
+
+
+4.8 钢管混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ 
+ <p style="text-align:justify "><a href="#id4.8.3"> 4.8.3</a> <span id="id4.8.3"> 由于超声波在钢材中的声速远快于混凝土声速，如果钢管尺寸过小，声波很可能完全沿钢管传播，就不能反映钢管内混凝土的质量情况。</span></p> 
+ 
+4.9 地连墙混凝土缺陷检测
+--------------------------------------  
+
+.. raw:: html
+
+ 
+ <p style="text-align:justify "><a href="#id4.9.2"> 4.9.2</a> <span id="id4.9.2"> 地连墙一般属隐蔽工程，目前采用施工时预埋声测管的方式对墙体质量进行检测的需求加大，所以推荐采用预埋声测管方法。</span></p> 
+ <p style="text-align:justify "><a href="#id4.9.3"> 4.9.3</a> <span id="id4.9.3"> 单地连墙槽段长度一般在（4~8）m 不等，因此可以根据实际情况在所选取槽段上均匀埋置声测管。</span></p> 
+ 
+:math:`\ ` 
